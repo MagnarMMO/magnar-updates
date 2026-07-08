@@ -1,14 +1,19 @@
 {
   "Files": [
     {
+      "Path": "Magnar.exe",
+      "Checksum": "HNinPY0SSBQ=",
+      "Size": 46455472
+    },
+    {
       "Path": "resources/client_strings.json",
       "Checksum": "uEgVobGlrPU=",
       "Size": 36467
     },
     {
       "Path": "resources/config.json",
-      "Checksum": "/Fid3PN6eRw=",
-      "Size": 1134
+      "Checksum": "ySZuFx7EMio=",
+      "Size": 1173
     },
     {
       "Path": "resources/credits.json",

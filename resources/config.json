@@ -14,7 +14,7 @@
   "MenuBackgroundDisplayMode": "Default",
   "MenuBackgroundFrameInterval": 50,
   "IntroImages": [],
-  "UpdateUrl": null,
+  "UpdateUrl": https://github.com/MagnarMMO/magnar-updates,
   "MouseCursor": null,
   "MusicFadeTimer": 1500,
   "FadeDurationMs": 3000.0,
