@@ -1,24 +1,19 @@
 {
   "Files": [
     {
-      "Path": "Magnar.exe",
-      "Checksum": "HNinPY0SSBQ=",
-      "Size": 46455472
-    },
-    {
       "Path": "resources/client_strings.json",
       "Checksum": "uEgVobGlrPU=",
       "Size": 36467
     },
     {
       "Path": "resources/config.json",
-      "Checksum": "70dRH4yDgUM=",
-      "Size": 1131
+      "Checksum": "/Fid3PN6eRw=",
+      "Size": 1134
     },
     {
       "Path": "resources/credits.json",
-      "Checksum": "LJ9GAVqdsxQ=",
-      "Size": 17099
+      "Checksum": "dG0vQbPOkTs=",
+      "Size": 17886
     },
     {
       "Path": "resources/animations/Blood.png",
@@ -44,6 +39,11 @@
       "Path": "resources/animations/Campfire_Alt.png",
       "Checksum": "9XBVjVDDuco=",
       "Size": 919
+    },
+    {
+      "Path": "resources/animations/Círculo de Magia.png",
+      "Checksum": "kTvYW2C+0/M=",
+      "Size": 1100
     },
     {
       "Path": "resources/animations/Emote_Concern.png",
@@ -99,6 +99,11 @@
       "Path": "resources/animations/Strike.png",
       "Checksum": "2x6xLq0DiN4=",
       "Size": 3336
+    },
+    {
+      "Path": "resources/entities/Arquimago.png",
+      "Checksum": "2DaEhjbj4AI=",
+      "Size": 6971
     },
     {
       "Path": "resources/entities/Base_Female.png",
@@ -169,6 +174,21 @@
       "Path": "resources/entities/Base_Male_006.png",
       "Checksum": "fxiBxco+SVg=",
       "Size": 2948
+    },
+    {
+      "Path": "resources/entities/Gatuno.png",
+      "Checksum": "bBeWBsuj7vg=",
+      "Size": 6594
+    },
+    {
+      "Path": "resources/entities/Gatuno_F.png",
+      "Checksum": "rFwFtxIgiZc=",
+      "Size": 6827
+    },
+    {
+      "Path": "resources/entities/Mago_F.png",
+      "Checksum": "v/xN5vuyAWU=",
+      "Size": 7003
     },
     {
       "Path": "resources/entities/Misc_George.png",
@@ -656,9 +676,14 @@
       "Size": 3174
     },
     {
-      "Path": "resources/entities/Slime.png",
-      "Checksum": "ExGfSwdkTfE=",
-      "Size": 3770
+      "Path": "resources/entities/Sentinela.png",
+      "Checksum": "SY3sQ1W849w=",
+      "Size": 6770
+    },
+    {
+      "Path": "resources/entities/Sentinela_F.png",
+      "Checksum": "7bN1JqVF0Kc=",
+      "Size": 6900
     },
     {
       "Path": "resources/faces/base.png",
@@ -1712,18 +1737,18 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftedItem.json",
-      "Checksum": "E6qg27TREQ8=",
-      "Size": 2423
+      "Checksum": "p358cfUS03E=",
+      "Size": 2507
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Checksum": "8hq4lbkGeec=",
-      "Size": 2423
+      "Checksum": "YqlQLkqp0Wo=",
+      "Size": 2508
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Checksum": "QpJQpUa+RTM=",
-      "Size": 36385
+      "Checksum": "G5mZYVTgj9E=",
+      "Size": 37466
     },
     {
       "Path": "resources/gui/layouts/game/DescriptionWindow.json",
@@ -1767,8 +1792,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventWindow.json",
-      "Checksum": "4qn5HfNN2Rw=",
-      "Size": 27436
+      "Checksum": "oZzsd3Nw1LI=",
+      "Size": 30348
     },
     {
       "Path": "resources/gui/layouts/game/FriendRow.json",
@@ -1837,7 +1862,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Checksum": "S82VPKNXIGI=",
+      "Checksum": "qd1G/FuU21Y=",
       "Size": 19628
     },
     {
@@ -1852,7 +1877,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Checksum": "AsCqItfrolY=",
+      "Checksum": "/tnPoQ7WFyQ=",
       "Size": 21614
     },
     {
@@ -1862,18 +1887,18 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopContextMenu.json",
-      "Checksum": "VAZf7Eha6mA=",
-      "Size": 8274
+      "Checksum": "CSGXX0oAhqc=",
+      "Size": 8565
     },
     {
       "Path": "resources/gui/layouts/game/ShopItem.json",
-      "Checksum": "Fh4jblRp1q0=",
-      "Size": 1439
+      "Checksum": "qSHP1lceK48=",
+      "Size": 1492
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Checksum": "++j1hR5/9Qw=",
-      "Size": 15154
+      "Checksum": "tTO/WPX3Umo=",
+      "Size": 15618
     },
     {
       "Path": "resources/gui/layouts/game/SimplifiedEscapeMenu.json",
@@ -1932,8 +1957,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TheirTradeItem.json",
-      "Checksum": "k/zESpEKQSk=",
-      "Size": 2120
+      "Checksum": "cMuCbrGpgk4=",
+      "Size": 2489
     },
     {
       "Path": "resources/gui/layouts/game/TradeContextMenu.json",
@@ -1942,13 +1967,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/TradeWindow.json",
-      "Checksum": "ygMJm6lOCVo=",
-      "Size": 29983
+      "Checksum": "8xJqbllj6Pg=",
+      "Size": 31759
     },
     {
       "Path": "resources/gui/layouts/game/YourTradeItem.json",
-      "Checksum": "EWB6gV2OL6s=",
-      "Size": 2173
+      "Checksum": "7KnioE1qozU=",
+      "Size": 2509
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
@@ -1962,8 +1987,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Checksum": "If923maJmi8=",
-      "Size": 25404
+      "Checksum": "UycS08lV/u8=",
+      "Size": 26126
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -1992,8 +2017,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/PasswordChangeWindowResetToken.json",
-      "Checksum": "eJnUriS3INI=",
-      "Size": 19544
+      "Checksum": "xv03iHH7QZI=",
+      "Size": 20108
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
@@ -2032,13 +2057,13 @@
     },
     {
       "Path": "resources/gui/layouts/shared/InputBox_NumericSliderInput.json",
-      "Checksum": "CML5jyJg8N4=",
-      "Size": 27523
+      "Checksum": "uBHd+yhKs/4=",
+      "Size": 28366
     },
     {
       "Path": "resources/gui/layouts/shared/InputBox_Okay.json",
-      "Checksum": "Ap6WlnIupRg=",
-      "Size": 20379
+      "Checksum": "OmLZTCdJdac=",
+      "Size": 21364
     },
     {
       "Path": "resources/gui/layouts/shared/InputBox_TextInput.json",
@@ -3617,1168 +3642,1423 @@
     },
     {
       "Path": "resources/paperdolls/Armor_1 Black.png",
-      "Checksum": "Au1KC4epqlE=",
-      "Size": 935
+      "Checksum": "C60Z0PXVzyI=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_1 Blue.png",
-      "Checksum": "4x0EeThyfJs=",
-      "Size": 958
+      "Checksum": "JWKksvUAHtc=",
+      "Size": 2542
     },
     {
       "Path": "resources/paperdolls/Armor_1 Brown.png",
-      "Checksum": "QiRkbD/IH/I=",
-      "Size": 935
+      "Checksum": "CQ1t87cI5OU=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_1 Green.png",
-      "Checksum": "EZl+AkowVyw=",
-      "Size": 935
+      "Checksum": "fPKDSvArAQo=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_1 Pink.png",
-      "Checksum": "7MfdcH9pRBE=",
-      "Size": 934
+      "Checksum": "Vsr+MiAmjgg=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_1 Purple.png",
-      "Checksum": "jwfFd5JHpwU=",
-      "Size": 936
+      "Checksum": "ZgmEufCLxco=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_1 Red.png",
-      "Checksum": "TyZz07XDKV8=",
-      "Size": 933
+      "Checksum": "pw0Oy2Z6rYw=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_1 Yellow.png",
-      "Checksum": "Ki+eN0sIsOI=",
-      "Size": 936
+      "Checksum": "9bkjoAk5Hjw=",
+      "Size": 2500
     },
     {
       "Path": "resources/paperdolls/Armor_2 Black.png",
-      "Checksum": "yw86FdHpB6U=",
-      "Size": 879
+      "Checksum": "WsE3kR4mtBw=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_2 Blue.png",
-      "Checksum": "abB0VUzYbfo=",
-      "Size": 889
+      "Checksum": "cjFgWi+vqMA=",
+      "Size": 2363
     },
     {
       "Path": "resources/paperdolls/Armor_2 Brown.png",
-      "Checksum": "Ygz4M8j5tHo=",
-      "Size": 879
+      "Checksum": "zxOsMzPbNHg=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_2 Green.png",
-      "Checksum": "F92vG1kMY0E=",
-      "Size": 879
+      "Checksum": "/I971YfFyYY=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_2 Pink.png",
-      "Checksum": "x6Sr+10T37U=",
-      "Size": 878
+      "Checksum": "7b/K9azExEQ=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_2 Purple.png",
-      "Checksum": "R53VnpSCtv8=",
-      "Size": 880
+      "Checksum": "LBhoqq9QQf0=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_2 Red.png",
-      "Checksum": "oNCHxCg2j/8=",
-      "Size": 877
+      "Checksum": "4png7nxz5ss=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_2 Yellow.png",
-      "Checksum": "AVGWTUHngdg=",
-      "Size": 880
+      "Checksum": "y+c+npES1YA=",
+      "Size": 2321
     },
     {
       "Path": "resources/paperdolls/Armor_3 Black.png",
-      "Checksum": "Xb8DDpxvVvk=",
-      "Size": 906
+      "Checksum": "g6kwIsGXn9s=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Armor_3 Blue.png",
-      "Checksum": "AeXC5g2Sdwg=",
-      "Size": 905
+      "Checksum": "HOMb2a5Tt2Y=",
+      "Size": 2441
     },
     {
       "Path": "resources/paperdolls/Armor_3 Brown.png",
-      "Checksum": "aHivuKkm1DM=",
-      "Size": 906
+      "Checksum": "k+jraHIM5zw=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Armor_3 Green.png",
-      "Checksum": "87wr5NbNyVM=",
-      "Size": 906
+      "Checksum": "jnkz+V04u1w=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Armor_3 Pink.png",
-      "Checksum": "WfBGUHrebDs=",
-      "Size": 905
+      "Checksum": "JLqhav0VTsg=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Armor_3 Purple.png",
-      "Checksum": "vcFxm32nQJo=",
-      "Size": 907
+      "Checksum": "VlTX0W0sJ/4=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Armor_3 Red.png",
-      "Checksum": "8xI381oMjPo=",
-      "Size": 904
+      "Checksum": "ne+tTOo3mmk=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Armor_3 Yellow.png",
-      "Checksum": "37QE6DcdERM=",
-      "Size": 907
+      "Checksum": "qKd8WeJ61p0=",
+      "Size": 2428
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Black.png",
-      "Checksum": "BAC6z1BRo9g=",
-      "Size": 758
+      "Checksum": "HEjhTYJbgsM=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Blue.png",
-      "Checksum": "DH0yaoGastI=",
-      "Size": 757
+      "Checksum": "+FNzmAwzu1g=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Brown.png",
-      "Checksum": "SnQ0ZZWRFu4=",
-      "Size": 758
+      "Checksum": "0P9CXiPjftM=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Green.png",
-      "Checksum": "bAstrRXP1aQ=",
-      "Size": 758
+      "Checksum": "2QUn7CV5rEk=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 pink.png",
-      "Checksum": "rQwudVwQEmY=",
-      "Size": 757
+      "Checksum": "NvVJrjks2h8=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Purple.png",
-      "Checksum": "mpGcStCJ4p0=",
-      "Size": 759
+      "Checksum": "wZVU2FP1Ugc=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Red.png",
-      "Checksum": "RHZc+bhFoUo=",
-      "Size": 756
+      "Checksum": "i7pc0fGvohQ=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 White.png",
-      "Checksum": "1l+79oqSfbw=",
-      "Size": 758
+      "Checksum": "EKQHgKf0/J0=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_1 Yellow.png",
-      "Checksum": "27uc1v6W/zg=",
-      "Size": 759
+      "Checksum": "UDS2Bx9whNI=",
+      "Size": 2115
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Black.png",
-      "Checksum": "FAYv7Y3eEyw=",
-      "Size": 804
+      "Checksum": "PGKvsOHVDVk=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Blue.png",
-      "Checksum": "9t0Y//FKX0g=",
-      "Size": 803
+      "Checksum": "a2wyom4A/V4=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Brown.png",
-      "Checksum": "iuKyrBoVxFY=",
-      "Size": 804
+      "Checksum": "1rbYgjQiFlg=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Green.png",
-      "Checksum": "9+jMZxZgeBU=",
-      "Size": 804
+      "Checksum": "JxgvnYRkKMw=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Pink.png",
-      "Checksum": "XIF8KTESLH0=",
-      "Size": 803
+      "Checksum": "gl+mGkNRPsE=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Purple.png",
-      "Checksum": "oTSJz90KpI4=",
-      "Size": 805
+      "Checksum": "GhyGkr4vOmc=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Red.png",
-      "Checksum": "Rs6H/A02/qA=",
-      "Size": 802
+      "Checksum": "Yr+eWENBypw=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 White.png",
-      "Checksum": "NQZ6UxsAyk0=",
-      "Size": 804
+      "Checksum": "70yIaIMBGCg=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Bandana_2 Yellow.png",
-      "Checksum": "85R/7K9Ai1Q=",
-      "Size": 805
+      "Checksum": "6UNSMrp++Mg=",
+      "Size": 2155
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Black.png",
+      "Checksum": "C4x9kkRsAiQ=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Blue.png",
+      "Checksum": "rA5OmsHT+EI=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Brown.png",
+      "Checksum": "vlXU4LZQs4o=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Green.png",
+      "Checksum": "4oLHchVLRiA=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Pink.png",
+      "Checksum": "g0znFAx6F2E=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Red.png",
+      "Checksum": "2sXfRPiWFPo=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 White.png",
+      "Checksum": "dyBKNuY94To=",
+      "Size": 1854
+    },
+    {
+      "Path": "resources/paperdolls/Belt_1 Yellow.png",
+      "Checksum": "+iZvPil4NLM=",
+      "Size": 1867
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Black.png",
+      "Checksum": "IGPM25ilc4U=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Blue.png",
+      "Checksum": "36Ir+wOVcfI=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Brown.png",
+      "Checksum": "7uu7hF98NjI=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Green.png",
+      "Checksum": "ya4rybZrhV8=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Pink.png",
+      "Checksum": "uoVSqSH7zQY=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Purple.png",
+      "Checksum": "upGCaHIF3Rc=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Red.png",
+      "Checksum": "KOmaCb+JKOs=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 A Yellow.png",
+      "Checksum": "hcVUMXgOEcQ=",
+      "Size": 2007
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Black.png",
+      "Checksum": "6O54gAYKiMg=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Blue.png",
+      "Checksum": "tnEpQZ51a1s=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Brown.png",
+      "Checksum": "SfYb8it4Twc=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Green.png",
+      "Checksum": "Kpy7poxPIuA=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Pink.png",
+      "Checksum": "Yf2uQdWTXgo=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Purple.png",
+      "Checksum": "TtQriVtpmDM=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Red.png",
+      "Checksum": "b80eLVycs0o=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 White.png",
+      "Checksum": "cPa5px+C/Ts=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_2 Yellow.png",
+      "Checksum": "a6uZF8vkNJY=",
+      "Size": 1986
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Black.png",
+      "Checksum": "iO30XcuvFwc=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Blue.png",
+      "Checksum": "FL/YCPfEMqs=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Brown.png",
+      "Checksum": "nA6Sr5vGpRI=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Green.png",
+      "Checksum": "UNn6jlNwqhQ=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Pink.png",
+      "Checksum": "wXrCF0AbNvQ=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Purple.png",
+      "Checksum": "rIxnp1v0hd8=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Red.png",
+      "Checksum": "FDYFbFJLNTA=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 A Yellow.png",
+      "Checksum": "sh21A+ulb94=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Black.png",
+      "Checksum": "/V34bwjapHE=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Blue.png",
+      "Checksum": "AhbM1r58ZpU=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Brown.png",
+      "Checksum": "bCxAfcFiByc=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Green.png",
+      "Checksum": "1d+TKsXuL7g=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Pink.png",
+      "Checksum": "dn3eDUTT4I8=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Purple.png",
+      "Checksum": "Robz2GqI3+Q=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Red.png",
+      "Checksum": "63KquTdTlN0=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 White.png",
+      "Checksum": "X513IjGRCek=",
+      "Size": 1960
+    },
+    {
+      "Path": "resources/paperdolls/Belt_3 Yellow.png",
+      "Checksum": "PHfatU2uEuk=",
+      "Size": 1960
     },
     {
       "Path": "resources/paperdolls/Boots_1 Black.png",
-      "Checksum": "nz+VvfD0zsk=",
-      "Size": 681
+      "Checksum": "CbGsLb5rpr4=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Blue.png",
-      "Checksum": "fjJ4zpNW1XU=",
-      "Size": 680
+      "Checksum": "eSV9LKSaOrw=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Brown.png",
-      "Checksum": "wQqqhtbjezg=",
-      "Size": 681
+      "Checksum": "PwwDt09g1bo=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Green.png",
-      "Checksum": "mX7Kc9PxSDE=",
-      "Size": 681
+      "Checksum": "4sH5sRq0oiU=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Pink.png",
-      "Checksum": "htOCO5IbnhY=",
-      "Size": 680
+      "Checksum": "XWuE82zwOI0=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Purple.png",
-      "Checksum": "GqPVd1zyUXc=",
-      "Size": 682
+      "Checksum": "Mym1Z5w/8OU=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Red.png",
-      "Checksum": "2Y+r0GFeB1M=",
-      "Size": 679
+      "Checksum": "D/Ny7ZFUKh4=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 White.png",
-      "Checksum": "221jNKPZoiw=",
-      "Size": 681
+      "Checksum": "xBZhCZ6nI9w=",
+      "Size": 1929
     },
     {
       "Path": "resources/paperdolls/Boots_1 Yellow.png",
-      "Checksum": "ZWX34+CETac=",
-      "Size": 682
+      "Checksum": "/DOB5nsjEnE=",
+      "Size": 1942
     },
     {
       "Path": "resources/paperdolls/Crown_1 Black.png",
-      "Checksum": "8FbzzZJBkUM=",
-      "Size": 537
+      "Checksum": "aegOlVLFASY=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 Blue.png",
-      "Checksum": "JssAHqTirAo=",
-      "Size": 536
+      "Checksum": "i6AxmXFwCWc=",
+      "Size": 1854
     },
     {
       "Path": "resources/paperdolls/Crown_1 Brown.png",
-      "Checksum": "M+UzxphNj1E=",
-      "Size": 537
+      "Checksum": "EJVRcfnQFfI=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 Green.png",
-      "Checksum": "lcf/MBgFhEg=",
-      "Size": 537
+      "Checksum": "ceAQJLE5hlM=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 Pink.png",
-      "Checksum": "THQdGM0lLx0=",
-      "Size": 536
+      "Checksum": "WmN28JGddok=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 Purple.png",
-      "Checksum": "AUl4Hqr1nW0=",
-      "Size": 538
+      "Checksum": "abJfbtuPMYU=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 Red.png",
-      "Checksum": "dBYBDDTTqs4=",
-      "Size": 535
+      "Checksum": "17wfmJSUE9o=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 White.png",
-      "Checksum": "thHLo8I1Keg=",
-      "Size": 537
+      "Checksum": "lp7ZZnrRBY0=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_1 Yellow.png",
-      "Checksum": "m1ZBoxBXEz4=",
-      "Size": 538
+      "Checksum": "lS6+VYhlUbg=",
+      "Size": 1841
     },
     {
       "Path": "resources/paperdolls/Crown_2 Black.png",
-      "Checksum": "ZJvjsj6u9uM=",
-      "Size": 537
+      "Checksum": "unnkS8Gi388=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 Blue.png",
-      "Checksum": "Cr98pJm7PWs=",
-      "Size": 536
+      "Checksum": "OIQtD9flACg=",
+      "Size": 1876
     },
     {
       "Path": "resources/paperdolls/Crown_2 Brown.png",
-      "Checksum": "pygjuTSi6PE=",
-      "Size": 537
+      "Checksum": "wRYRDXmj8cQ=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 Green.png",
-      "Checksum": "AQrvT7Tq4+g=",
-      "Size": 537
+      "Checksum": "Tou/vHtqwlw=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 Pink.png",
-      "Checksum": "YABhovB8vnw=",
-      "Size": 536
+      "Checksum": "GhZIojz/RXg=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 Purple.png",
-      "Checksum": "B0DW+j6Iuko=",
-      "Size": 538
+      "Checksum": "HEspM5RW3kQ=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 Red.png",
-      "Checksum": "9n5Hw7Zr4Qw=",
-      "Size": 535
+      "Checksum": "uQNC+S440Qk=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 White.png",
-      "Checksum": "vkeuEw6/7xY=",
-      "Size": 537
+      "Checksum": "MDuekPfZcF0=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_2 Yellow.png",
-      "Checksum": "TbgX1x6frlo=",
-      "Size": 538
+      "Checksum": "nE8Rin93Wu8=",
+      "Size": 1863
     },
     {
       "Path": "resources/paperdolls/Crown_3 Black.png",
-      "Checksum": "s7o8k70epks=",
-      "Size": 517
+      "Checksum": "RRg4bJFEDuY=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 Blue.png",
-      "Checksum": "c4ZyynF4l9k=",
-      "Size": 516
+      "Checksum": "evT5A8C92ho=",
+      "Size": 1789
     },
     {
       "Path": "resources/paperdolls/Crown_3 Brown.png",
-      "Checksum": "I5jf1YEJck0=",
-      "Size": 517
+      "Checksum": "4yi9CKE5vFU=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 Green.png",
-      "Checksum": "TdegzzBljFA=",
-      "Size": 517
+      "Checksum": "bYCFMSQlXF0=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 Pink.png",
-      "Checksum": "j36XAYT/eGo=",
-      "Size": 516
+      "Checksum": "0NaS33fUxrc=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 Purple.png",
-      "Checksum": "kay5YseTOvU=",
-      "Size": 518
+      "Checksum": "sKHj8Whucb8=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 Red.png",
-      "Checksum": "7TC2gfknRjY=",
-      "Size": 515
+      "Checksum": "qzPTFz66uw8=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 White.png",
-      "Checksum": "1AatlfBXXQ0=",
-      "Size": 517
+      "Checksum": "925avOaY3rk=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_3 Yellow.png",
-      "Checksum": "XfkiTielAAo=",
-      "Size": 518
+      "Checksum": "3IGBYqMvbY4=",
+      "Size": 1776
     },
     {
       "Path": "resources/paperdolls/Crown_4 Black.png",
-      "Checksum": "Bsigu/lFNIE=",
-      "Size": 646
+      "Checksum": "YxZjN/0PCf8=",
+      "Size": 1902
     },
     {
       "Path": "resources/paperdolls/Crown_4 Blue.png",
-      "Checksum": "/ny/Ur/x9es=",
-      "Size": 650
+      "Checksum": "wFE0tXEZHvo=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_4 Brown.png",
-      "Checksum": "yqvAh+cd/nw=",
-      "Size": 651
+      "Checksum": "usijTFzpjzk=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_4 Green.png",
-      "Checksum": "6GxiUpYgOvo=",
-      "Size": 651
+      "Checksum": "X1tukJ9ViPU=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_4 Pink.png",
-      "Checksum": "FxUkyxkEKbg=",
-      "Size": 650
+      "Checksum": "fzqYxSttQmo=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_4 Purple.png",
-      "Checksum": "ScPPiL1rRbY=",
-      "Size": 652
+      "Checksum": "Pna2g5Cezqc=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_4 Red.png",
-      "Checksum": "5LF0Rxv6yEI=",
-      "Size": 649
+      "Checksum": "hEiDXa1CgTk=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_4 White.png",
-      "Checksum": "/WdvvZsYCyM=",
-      "Size": 643
+      "Checksum": "NCIqzqOh2Aw=",
+      "Size": 1903
     },
     {
       "Path": "resources/paperdolls/Crown_4 Yellow.png",
-      "Checksum": "PNcHvU39tts=",
-      "Size": 652
+      "Checksum": "86Ir7Ey453g=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Black.png",
-      "Checksum": "HGEtPbfxY+g=",
-      "Size": 646
+      "Checksum": "Ki+aD6RP7JA=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Blue.png",
-      "Checksum": "2x6IovIN3xo=",
-      "Size": 645
+      "Checksum": "r3dijlvHaqQ=",
+      "Size": 1919
     },
     {
       "Path": "resources/paperdolls/Crown_5 Brown.png",
-      "Checksum": "9Gpzl7aUd24=",
-      "Size": 646
+      "Checksum": "frDoZG4X0b8=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Green.png",
-      "Checksum": "Hyrzk+YzY1o=",
-      "Size": 646
+      "Checksum": "pFw/dYJ6P08=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Pink.png",
-      "Checksum": "QhqUxRYgV7Y=",
-      "Size": 645
+      "Checksum": "qEFOLFQZNdE=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Purple.png",
-      "Checksum": "jffWlOVlJ4U=",
-      "Size": 647
+      "Checksum": "N5NelgIikq4=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Red.png",
-      "Checksum": "gxoLIn6SuCA=",
-      "Size": 644
+      "Checksum": "UzNVtNI29oI=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 White.png",
-      "Checksum": "PQsM7yPBoZw=",
-      "Size": 646
+      "Checksum": "ifqTO6uBiY0=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_5 Yellow.png",
-      "Checksum": "VS6QMVYY1lM=",
-      "Size": 647
+      "Checksum": "cDUhRMD5yVQ=",
+      "Size": 1906
     },
     {
       "Path": "resources/paperdolls/Crown_6 Black.png",
-      "Checksum": "GuXLhbi4pmY=",
-      "Size": 709
+      "Checksum": "LNi5q6ivQL4=",
+      "Size": 2020
     },
     {
       "Path": "resources/paperdolls/Crown_6 Blue.png",
-      "Checksum": "zhXMyubrk4I=",
-      "Size": 715
+      "Checksum": "dMO6kTxxEYU=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/Crown_6 Brown.png",
-      "Checksum": "LOGc1sPazDI=",
-      "Size": 716
+      "Checksum": "smn78nPu1JE=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/Crown_6 Green.png",
-      "Checksum": "N9gjVIicUwA=",
-      "Size": 716
+      "Checksum": "VmSf8g3NhoA=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/Crown_6 Pink.png",
-      "Checksum": "znyWjhRNBXA=",
-      "Size": 715
+      "Checksum": "NLYFLR+Sf+g=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/Crown_6 Purple.png",
-      "Checksum": "Jo7qO0vkvkc=",
-      "Size": 717
+      "Checksum": "Y/Th7T7K8w4=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/Crown_6 Red.png",
-      "Checksum": "xveexI+Z2EM=",
-      "Size": 714
+      "Checksum": "4Mvtyq35hSo=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/Crown_6 White.png",
-      "Checksum": "G4wdHDP5YpY=",
-      "Size": 703
+      "Checksum": "mIc5/wijW70=",
+      "Size": 2030
     },
     {
       "Path": "resources/paperdolls/Crown_6 Yellow.png",
-      "Checksum": "sdQvmN6INx4=",
-      "Size": 717
+      "Checksum": "9LABQ/YQgQ8=",
+      "Size": 2016
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Black.png",
-      "Checksum": "542RGMG8vK4=",
-      "Size": 1020
+      "Checksum": "K6iGpZBvogA=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Blue.png",
-      "Checksum": "MlmoRbg6AGY=",
-      "Size": 1024
+      "Checksum": "VlSRQeEfZ+I=",
+      "Size": 2486
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Brown.png",
-      "Checksum": "XhBcPo9bnpM=",
-      "Size": 1020
+      "Checksum": "0WH8oG0Jd9Y=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Green.png",
-      "Checksum": "Kp3HKPOwGoI=",
-      "Size": 1020
+      "Checksum": "v7q7yRgVQM0=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Pink.png",
-      "Checksum": "FpILhJxC8uE=",
-      "Size": 1019
+      "Checksum": "/Zpi/7trMGI=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Purple.png",
-      "Checksum": "igMx8rE8yKs=",
-      "Size": 1021
+      "Checksum": "9Km1Mjn8hxc=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Red.png",
-      "Checksum": "/GRsm+u9vZ0=",
-      "Size": 1018
+      "Checksum": "VbUzU/s8XLA=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 White.png",
-      "Checksum": "3Pgk1u3nphM=",
-      "Size": 1020
+      "Checksum": "JyFpD6Qzaks=",
+      "Size": 2480
     },
     {
       "Path": "resources/paperdolls/GasMask_1 Yellow.png",
-      "Checksum": "oQE6Lkjj+cs=",
-      "Size": 1021
+      "Checksum": "SMZfmqwiU5Q=",
+      "Size": 2480
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Black.png",
+      "Checksum": "fMrgHw7MhlA=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Blue.png",
+      "Checksum": "U76kqJuqhig=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Brown.png",
+      "Checksum": "DWXJ4r9aX9w=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Green.png",
+      "Checksum": "Gys6ohNjNgs=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Pink.png",
+      "Checksum": "wQV6Vh9fsuc=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Purple.png",
+      "Checksum": "jY4ay0xUeoY=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Red.png",
+      "Checksum": "vMewY2kZk6g=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 White.png",
+      "Checksum": "B8DLXNPQuZM=",
+      "Size": 1886
+    },
+    {
+      "Path": "resources/paperdolls/Gloves_1 Yellow.png",
+      "Checksum": "DrFsLIoVpPU=",
+      "Size": 1886
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Black.png",
-      "Checksum": "2lsg9KcBrZs=",
-      "Size": 770
+      "Checksum": "wm3EPrmgg78=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Blue.png",
-      "Checksum": "WuyNhLO3lAg=",
-      "Size": 769
+      "Checksum": "dh1vdfq/Vms=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Brown.png",
-      "Checksum": "DOnuZH03zV4=",
-      "Size": 770
+      "Checksum": "/ZAKKZH935k=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Green.png",
-      "Checksum": "VAf+P44FgbU=",
-      "Size": 770
+      "Checksum": "RuSecYIEC/c=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Pink.png",
-      "Checksum": "+OllyBR2sqQ=",
-      "Size": 769
+      "Checksum": "v97CrLJRfHM=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Purple.png",
-      "Checksum": "ARxyGaIhhWA=",
-      "Size": 771
+      "Checksum": "Z8lnvdyndR4=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Red.png",
-      "Checksum": "T8Mdbb2K8dw=",
-      "Size": 768
+      "Checksum": "GaFlRK7qeYE=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 A White.png",
-      "Checksum": "KftIVSd1kj0=",
-      "Size": 766
+      "Checksum": "dSTTMl9mK44=",
+      "Size": 2238
     },
     {
       "Path": "resources/paperdolls/Hat_1 A Yellow.png",
-      "Checksum": "gSGuxCvN0/A=",
-      "Size": 771
+      "Checksum": "OidSMG5KWZU=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Hat_1 Black.png",
-      "Checksum": "GQa2KSgikBk=",
-      "Size": 751
+      "Checksum": "Ti9auoYACYs=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Blue.png",
-      "Checksum": "mgwENBtx4QU=",
-      "Size": 750
+      "Checksum": "eKBT9sPvJfo=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Brown.png",
-      "Checksum": "iWMwSsEYOSU=",
-      "Size": 751
+      "Checksum": "6qlDL07LSWk=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Green.png",
-      "Checksum": "xBfbNcwYrT4=",
-      "Size": 751
+      "Checksum": "L5ymbSU1Evo=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Pink.png",
-      "Checksum": "DMEUKyBUfX0=",
-      "Size": 750
+      "Checksum": "SGop/I6B1p0=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Purple.png",
-      "Checksum": "G68envjR7QE=",
-      "Size": 752
+      "Checksum": "MggZiT2o5TQ=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Red.png",
-      "Checksum": "Gnbnw59ct4Y=",
-      "Size": 749
+      "Checksum": "3rXMIoW4gmI=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 White.png",
-      "Checksum": "1AyGDh35UvM=",
-      "Size": 751
+      "Checksum": "U8W16ars/EE=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_1 Yellow.png",
-      "Checksum": "ma5kanNjefg=",
-      "Size": 752
+      "Checksum": "Tn3bl9WdC08=",
+      "Size": 2227
     },
     {
       "Path": "resources/paperdolls/Hat_2 Black.png",
-      "Checksum": "PJePErfqJZw=",
-      "Size": 748
+      "Checksum": "q8PIPyBn1sU=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 Blue.png",
-      "Checksum": "sGaczQvPdMg=",
-      "Size": 747
+      "Checksum": "2ASqt2vqjoc=",
+      "Size": 2257
     },
     {
       "Path": "resources/paperdolls/Hat_2 Brown.png",
-      "Checksum": "oMyNTpJBVPo=",
-      "Size": 748
+      "Checksum": "ECe8I13kPNk=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 Green.png",
-      "Checksum": "qtQ/vSyOLzc=",
-      "Size": 748
+      "Checksum": "l6Z5xWRQ+sc=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 Pink.png",
-      "Checksum": "dnIc0Y5TBVw=",
-      "Size": 747
+      "Checksum": "ejRM7hsrV9E=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 Purple.png",
-      "Checksum": "ewGlFTXj4js=",
-      "Size": 749
+      "Checksum": "e2mkRR0TH8U=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 Red.png",
-      "Checksum": "b4vHaSB5gM0=",
-      "Size": 746
+      "Checksum": "0JlDTRdmaNE=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 White.png",
-      "Checksum": "N62OGSGjMJk=",
-      "Size": 748
+      "Checksum": "9FvNnrJfJLU=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_2 Yellow.png",
-      "Checksum": "tkxSy7sN8lM=",
-      "Size": 749
+      "Checksum": "mY328DLS3Wc=",
+      "Size": 2244
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Black.png",
-      "Checksum": "Hzsee3s0FdE=",
-      "Size": 740
+      "Checksum": "s7RVtl5CZD4=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Blue.png",
-      "Checksum": "Xo5JZ12twJE=",
-      "Size": 739
+      "Checksum": "998oo32fSnk=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Brown.png",
-      "Checksum": "M2ybpVa5S1g=",
-      "Size": 740
+      "Checksum": "cHxDqaOr1hU=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Green.png",
-      "Checksum": "YlbK3l2j13Y=",
-      "Size": 740
+      "Checksum": "3Jr7CZlQq9c=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Pink.png",
-      "Checksum": "3OxwrfTCNJ0=",
-      "Size": 739
+      "Checksum": "cLfalg/nW7Q=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Purple.png",
-      "Checksum": "feMn1GvmV7o=",
-      "Size": 741
+      "Checksum": "rn2ZwJNepjA=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Red.png",
-      "Checksum": "qvP4jn8ysD8=",
-      "Size": 738
+      "Checksum": "3E219pZMIPE=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 A White.png",
-      "Checksum": "X4KNLsulgg8=",
-      "Size": 733
+      "Checksum": "Nx2ljYBOZQo=",
+      "Size": 2151
     },
     {
       "Path": "resources/paperdolls/Hat_3 A Yellow.png",
-      "Checksum": "Frgjkbywuvs=",
-      "Size": 741
+      "Checksum": "uhFNo1NP/ow=",
+      "Size": 2158
     },
     {
       "Path": "resources/paperdolls/Hat_3 Black.png",
-      "Checksum": "x8AvVjKCP8c=",
-      "Size": 724
+      "Checksum": "wBhkEQ2TxE0=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 Blue.png",
-      "Checksum": "lBN7Y5X2x7A=",
-      "Size": 723
+      "Checksum": "Jf7t4KfSurc=",
+      "Size": 2155
     },
     {
       "Path": "resources/paperdolls/Hat_3 Brown.png",
-      "Checksum": "Qi/qS+NsZQg=",
-      "Size": 724
+      "Checksum": "Bh1wyA3YJJ0=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 Green.png",
-      "Checksum": "MEZzsQNj4Zg=",
-      "Size": 724
+      "Checksum": "oWS7zAYlEaM=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 Pink.png",
-      "Checksum": "LsXz+3Z1x18=",
-      "Size": 723
+      "Checksum": "K8SDJXzqrak=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 Purple.png",
-      "Checksum": "6d5wlQY54b0=",
-      "Size": 725
+      "Checksum": "cfECn6mWLyc=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 Red.png",
-      "Checksum": "0OmAVGqRHAM=",
-      "Size": 722
+      "Checksum": "PTJGAmcC3KU=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 White.png",
-      "Checksum": "Ar+g/M2faH0=",
-      "Size": 724
+      "Checksum": "9eN0Kf7YSRY=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Hat_3 Yellow.png",
-      "Checksum": "Wqv/ayF3ltI=",
-      "Size": 725
+      "Checksum": "pIGA52EjjTc=",
+      "Size": 2142
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Black.png",
-      "Checksum": "sL+zLvQkd1A=",
-      "Size": 847
+      "Checksum": "aSVDZmwYiT8=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Blue.png",
-      "Checksum": "WEMNYLnUNg8=",
-      "Size": 854
+      "Checksum": "ehs9+gQ51Vw=",
+      "Size": 2224
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Brown.png",
-      "Checksum": "kOJEAYawvBQ=",
-      "Size": 847
+      "Checksum": "NzmCZ6cEhiw=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Green.png",
-      "Checksum": "XJAiZ/pQULE=",
-      "Size": 847
+      "Checksum": "/yXYjSdbTzQ=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Pink.png",
-      "Checksum": "70YsDwRVXSw=",
-      "Size": 846
+      "Checksum": "Jg8VnHBUA4M=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Purple.png",
-      "Checksum": "0uLGITHZY/g=",
-      "Size": 848
+      "Checksum": "TQi0nxny9GI=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Red.png",
-      "Checksum": "4eiKWpzK+Rw=",
-      "Size": 845
+      "Checksum": "IFoNFb4pfkk=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 White.png",
-      "Checksum": "qqWTb/GWRa0=",
-      "Size": 847
+      "Checksum": "gbyn5M15rvI=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_1 Yellow.png",
-      "Checksum": "TuMVJSLNmmU=",
-      "Size": 848
+      "Checksum": "GKWI3o8t9+s=",
+      "Size": 2207
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Black.png",
-      "Checksum": "IeR4dYPjyJE=",
-      "Size": 941
+      "Checksum": "z2Rm7m5148Q=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Blue.png",
-      "Checksum": "rN2kDmW/k7Y=",
-      "Size": 947
+      "Checksum": "II9yaq0b3kE=",
+      "Size": 2424
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Brown.png",
-      "Checksum": "mn7BoPylBWc=",
-      "Size": 941
+      "Checksum": "Xn7Gad6iSkA=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Green.png",
-      "Checksum": "9JRqK+C8yBQ=",
-      "Size": 941
+      "Checksum": "CrUUUm0B+1I=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Pink.png",
-      "Checksum": "Vky+xXNHrOw=",
-      "Size": 940
+      "Checksum": "Tu9q0pJO9Zw=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Purple.png",
-      "Checksum": "GsxsD8UsJKU=",
-      "Size": 942
+      "Checksum": "z/WJ3d7QSOs=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Red.png",
-      "Checksum": "bVGIhX+d4dU=",
-      "Size": 939
+      "Checksum": "pIqrC0I/ezo=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 White.png",
-      "Checksum": "EL7BWOgeALo=",
-      "Size": 941
+      "Checksum": "zRMfXfe1XBY=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_2 Yellow.png",
-      "Checksum": "wHAcY22UI5g=",
-      "Size": 942
+      "Checksum": "CLJxz9sUD08=",
+      "Size": 2397
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Black.png",
-      "Checksum": "Nl43tHNHcts=",
-      "Size": 864
+      "Checksum": "D3EbbAIr0Og=",
+      "Size": 2354
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Blue and Gold.png",
-      "Checksum": "RJf9IwsPRsM=",
-      "Size": 880
+      "Checksum": "kbcIqqEkNGw=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Blue.png",
-      "Checksum": "Utxqu2e8cMs=",
-      "Size": 871
+      "Checksum": "lxzuDIWuINo=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Brown.png",
-      "Checksum": "0031AjeEV4g=",
-      "Size": 872
+      "Checksum": "qTvW816bTHw=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Green.png",
-      "Checksum": "+//m9doV/d8=",
-      "Size": 872
+      "Checksum": "BdGb67pZnPY=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Pink.png",
-      "Checksum": "xlppS72r5eA=",
-      "Size": 871
+      "Checksum": "JCb+UblR3Rs=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Purple.png",
-      "Checksum": "WJg/QumO0iI=",
-      "Size": 873
+      "Checksum": "aH7hd+NhUxI=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Red.png",
-      "Checksum": "niLeWennE9w=",
-      "Size": 870
+      "Checksum": "LFQ8Rm1WNOM=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A White.png",
-      "Checksum": "9lY+SYtzF9g=",
-      "Size": 859
+      "Checksum": "xgNvsIZAlfg=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Helmet_3 A Yellow.png",
-      "Checksum": "i8/fleJEaqw=",
-      "Size": 873
+      "Checksum": "8lFZ8auOc9c=",
+      "Size": 2359
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Black.png",
-      "Checksum": "QjcWSTLBzsw=",
-      "Size": 860
+      "Checksum": "jtvjC5JENsk=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Blue.png",
-      "Checksum": "PqvBQyYqzys=",
-      "Size": 869
+      "Checksum": "glw5BAIba7A=",
+      "Size": 2372
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Brown.png",
-      "Checksum": "vxRo0OKfhG8=",
-      "Size": 860
+      "Checksum": "a2vlBla4SDg=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Green.png",
-      "Checksum": "xgUyOtECiHE=",
-      "Size": 860
+      "Checksum": "Tpo1QaoHz4E=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Pink.png",
-      "Checksum": "LQneI+EH3hM=",
-      "Size": 859
+      "Checksum": "4/AIG5r+NNg=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Purple.png",
-      "Checksum": "/xgnFBVKPEg=",
-      "Size": 861
+      "Checksum": "fr18wjfTCWk=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Red.png",
-      "Checksum": "TmxDmct23NM=",
-      "Size": 858
+      "Checksum": "Q29rsxceRik=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 White.png",
-      "Checksum": "NexlXB6E+lM=",
-      "Size": 860
+      "Checksum": "g4/YuI1d/VE=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_3 Yellow.png",
-      "Checksum": "juyI1rpG2YI=",
-      "Size": 861
+      "Checksum": "RqaZy8KplEc=",
+      "Size": 2352
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Black.png",
-      "Checksum": "5X7hZ6UShGM=",
-      "Size": 898
+      "Checksum": "94O2QfHZGJ8=",
+      "Size": 2370
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Blue.png",
-      "Checksum": "srzBvTBegdw=",
-      "Size": 918
+      "Checksum": "x2ViSv6SqnY=",
+      "Size": 2368
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Brown.png",
-      "Checksum": "70CHmYxLdmk=",
-      "Size": 909
+      "Checksum": "dUAPAf8CrUM=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Green.png",
-      "Checksum": "Z9lg2cEZvM0=",
-      "Size": 909
+      "Checksum": "VKTwLikqZ/k=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Pink.png",
-      "Checksum": "X3XMg6t+sdk=",
-      "Size": 908
+      "Checksum": "Q/g9RES24v8=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Purple.png",
-      "Checksum": "nbjucLMmtfo=",
-      "Size": 910
+      "Checksum": "Xv5/n3Fu0aA=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Red.png",
-      "Checksum": "MLNMF0qMw9U=",
-      "Size": 907
+      "Checksum": "gIfWTJWny7Y=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_4 White.png",
-      "Checksum": "5LyqQnCcxI8=",
-      "Size": 909
+      "Checksum": "vP2lOR1RhPo=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_4 Yellow.png",
-      "Checksum": "pXqnAg+PNds=",
-      "Size": 910
+      "Checksum": "U1QauU/IE2s=",
+      "Size": 2341
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Black.png",
-      "Checksum": "ARZuHegJDoE=",
-      "Size": 893
+      "Checksum": "xs+DDWgD+SU=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Blue.png",
-      "Checksum": "2oKGdcKgTKo=",
-      "Size": 917
+      "Checksum": "daFaHgs0jyI=",
+      "Size": 2318
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Brown.png",
-      "Checksum": "7/cEpvo0Seg=",
-      "Size": 909
+      "Checksum": "MEZIDRvOdbY=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Green.png",
-      "Checksum": "foseZJtM5F8=",
-      "Size": 909
+      "Checksum": "b2fb6FkxmA8=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Pink.png",
-      "Checksum": "244Da01/SDM=",
-      "Size": 908
+      "Checksum": "VWVZ+3CzyNU=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Purple.png",
-      "Checksum": "xogr7to88Q8=",
-      "Size": 910
+      "Checksum": "luMPhEtr2To=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Red.png",
-      "Checksum": "jaMk03m+n8w=",
-      "Size": 907
+      "Checksum": "ppKVr6ref7w=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 White.png",
-      "Checksum": "GUjOPdcHAAc=",
-      "Size": 909
+      "Checksum": "ToiDQm/RXDE=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_5 Yellow.png",
-      "Checksum": "jJZGhoKV7aU=",
-      "Size": 910
+      "Checksum": "EZHArXzmPfg=",
+      "Size": 2314
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Black.png",
-      "Checksum": "h1SRRbVyEjU=",
-      "Size": 842
+      "Checksum": "PPLNNG1n2Ts=",
+      "Size": 2229
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Blue.png",
-      "Checksum": "9q1afHGog/M=",
-      "Size": 870
+      "Checksum": "VlQR9l9+2cg=",
+      "Size": 2264
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Brown.png",
-      "Checksum": "AjqmrQnAYZk=",
-      "Size": 850
+      "Checksum": "64FZtE7L8ME=",
+      "Size": 2247
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Green.png",
-      "Checksum": "4MbrwhHc1qw=",
-      "Size": 850
+      "Checksum": "TCnV659NbZc=",
+      "Size": 2247
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Pink.png",
-      "Checksum": "D/IFmoFBdQI=",
-      "Size": 849
+      "Checksum": "GgE6qjQWHbU=",
+      "Size": 2247
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Purple.png",
-      "Checksum": "q16rlvxUFyM=",
-      "Size": 851
+      "Checksum": "vyBDmhSTW6E=",
+      "Size": 2247
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Red.png",
-      "Checksum": "AbLWtdht93g=",
-      "Size": 848
+      "Checksum": "CgLs13n7Auk=",
+      "Size": 2247
     },
     {
       "Path": "resources/paperdolls/Helmet_6 White.png",
-      "Checksum": "iLzxkCjiGL8=",
-      "Size": 838
+      "Checksum": "ai35A3gp1mE=",
+      "Size": 2236
     },
     {
       "Path": "resources/paperdolls/Helmet_6 Yellow.png",
-      "Checksum": "rWjRCLFYsRo=",
-      "Size": 851
+      "Checksum": "hCW54FJxT3I=",
+      "Size": 2247
     },
     {
       "Path": "resources/paperdolls/Helmet_7 A Blue.png",
-      "Checksum": "n9Cdt8KbOGE=",
-      "Size": 742
+      "Checksum": "4H3Uc0NlV+o=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Black.png",
-      "Checksum": "Mojp1r7UIYI=",
-      "Size": 738
+      "Checksum": "5Rh6J4CX8HI=",
+      "Size": 2221
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Blue.png",
-      "Checksum": "yo+8GQkZcVQ=",
-      "Size": 740
+      "Checksum": "5WxmxnAjZi8=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Brown.png",
-      "Checksum": "JNK3XxMQyk8=",
-      "Size": 741
+      "Checksum": "ZgbLoSdVBxA=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Green.png",
-      "Checksum": "WYIosllpYeI=",
-      "Size": 741
+      "Checksum": "mFnwV2cpO/E=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Pink.png",
-      "Checksum": "U+aPaDgVyU4=",
-      "Size": 740
+      "Checksum": "qkF6xD20Mow=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Purple.png",
-      "Checksum": "2b3KQKKX5eA=",
-      "Size": 742
+      "Checksum": "4n5cTyPwLaE=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Red.png",
-      "Checksum": "q8vrZ0fih7A=",
-      "Size": 739
+      "Checksum": "XovzgMC4DAs=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_7 White.png",
-      "Checksum": "AJiPbxH/RP8=",
-      "Size": 725
+      "Checksum": "0BTNwzXcT6M=",
+      "Size": 2240
     },
     {
       "Path": "resources/paperdolls/Helmet_7 Yellow.png",
-      "Checksum": "0zwjMWOMXc0=",
-      "Size": 742
+      "Checksum": "PuruNEBdXyk=",
+      "Size": 2220
     },
     {
       "Path": "resources/paperdolls/Helmet_8 Black.png",
@@ -4827,568 +5107,763 @@
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Black.png",
-      "Checksum": "EeCJvSFxNS8=",
-      "Size": 893
+      "Checksum": "cCbtxRGtJ7E=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Blue Yellow.png",
-      "Checksum": "B4OWkmHbOZM=",
-      "Size": 903
+      "Checksum": "TdQjt4CesbQ=",
+      "Size": 2301
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Blue.png",
-      "Checksum": "JLQpH33anP4=",
-      "Size": 896
+      "Checksum": "I0KsglKpF5I=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Brown.png",
-      "Checksum": "F2WidJM1694=",
-      "Size": 897
+      "Checksum": "aLiFs0OPbaI=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Green.png",
-      "Checksum": "Dq9eatRCGfQ=",
-      "Size": 897
+      "Checksum": "y7s6kkUyt3c=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Pink.png",
-      "Checksum": "g2W3Nkq1wiU=",
-      "Size": 896
+      "Checksum": "nouuY0y+lqA=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Purple Green.png",
-      "Checksum": "mV5lB3EJbH8=",
-      "Size": 904
+      "Checksum": "MQ9MoZBFHNs=",
+      "Size": 2301
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Purple.png",
-      "Checksum": "3EtUlllRP9U=",
-      "Size": 898
+      "Checksum": "/TNvQ7acOr0=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Red.png",
-      "Checksum": "bIj+N7iGnU4=",
-      "Size": 895
+      "Checksum": "gxw/hsNE6iU=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 A White.png",
-      "Checksum": "LMh9tf3K9YE=",
-      "Size": 881
+      "Checksum": "JBO2kOQDQc8=",
+      "Size": 2257
     },
     {
       "Path": "resources/paperdolls/Hood_1 A Yellow.png",
-      "Checksum": "M5Y2BZgvLa8=",
-      "Size": 898
+      "Checksum": "G0+V00pgnvY=",
+      "Size": 2288
     },
     {
       "Path": "resources/paperdolls/Hood_1 Black.png",
-      "Checksum": "5wa8sQBpByY=",
-      "Size": 886
+      "Checksum": "FKGdSvz7av0=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 Blue.png",
-      "Checksum": "ADqBcoBzRIQ=",
-      "Size": 885
+      "Checksum": "qKGmHy7p53E=",
+      "Size": 2276
     },
     {
       "Path": "resources/paperdolls/Hood_1 Brown.png",
-      "Checksum": "bQTiiheL/Uo=",
-      "Size": 886
+      "Checksum": "1gqcL+lJ71A=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 Green.png",
-      "Checksum": "9dGJXXaa+qc=",
-      "Size": 886
+      "Checksum": "oWn21DoHjss=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 Pink.png",
-      "Checksum": "YG+Wyx0R4yU=",
-      "Size": 885
+      "Checksum": "VQbn5Jw4K8Y=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 Purple.png",
-      "Checksum": "3YhuI44zCPs=",
-      "Size": 887
+      "Checksum": "/jbeYyxzGmo=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 Red.png",
-      "Checksum": "VU/BLbyZIJQ=",
-      "Size": 884
+      "Checksum": "YE/T9nBH8OI=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 White.png",
-      "Checksum": "PZREjv2BQ9g=",
-      "Size": 886
+      "Checksum": "/B52J+3hu5U=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Hood_1 Yellow.png",
-      "Checksum": "nic0zu2BTio=",
-      "Size": 887
+      "Checksum": "yGoCfZUVpFI=",
+      "Size": 2263
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Black.png",
-      "Checksum": "85lgAlWQ1fM=",
-      "Size": 1261
+      "Checksum": "C9xIJhYeBWc=",
+      "Size": 2858
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Blue Dark.png",
-      "Checksum": "Q+63IAQFkvo=",
-      "Size": 1282
+      "Checksum": "SBd/bPGhmes=",
+      "Size": 2826
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Blue.png",
-      "Checksum": "XTBveYsgMH4=",
-      "Size": 1277
+      "Checksum": "H+3b3Nkc3P4=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Brown.png",
-      "Checksum": "MO8+M7rgwTs=",
-      "Size": 1278
+      "Checksum": "zRqr6qYOUo8=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Green.png",
-      "Checksum": "qiBPxw1mlGY=",
-      "Size": 1278
+      "Checksum": "ha05Wtg08JE=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Pink.png",
-      "Checksum": "Dpxo2yBqAm0=",
-      "Size": 1277
+      "Checksum": "LQa8M7Z3/AY=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Purple.png",
-      "Checksum": "btWSJ3CO/DE=",
-      "Size": 1279
+      "Checksum": "RvoHjozdlLI=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Red.png",
-      "Checksum": "Eia38wl4Ndc=",
-      "Size": 1276
+      "Checksum": "FbB6rA0EC1I=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite White.png",
-      "Checksum": "+0BPQejdqKM=",
-      "Size": 1278
+      "Checksum": "bW1YIr/nuaw=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Jumpsuite Yellow.png",
-      "Checksum": "+OnVo5InDEo=",
-      "Size": 1279
+      "Checksum": "wkL1fPoHGd0=",
+      "Size": 2813
     },
     {
       "Path": "resources/paperdolls/Mask_1 Black.png",
-      "Checksum": "DInqSXz3mUU=",
-      "Size": 616
+      "Checksum": "0t8y8l1Otx8=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 Blue.png",
-      "Checksum": "dodY1MI8qNc=",
-      "Size": 615
+      "Checksum": "pUSMIro2nCE=",
+      "Size": 1852
     },
     {
       "Path": "resources/paperdolls/Mask_1 Brown.png",
-      "Checksum": "fWdr+Zc95o0=",
-      "Size": 616
+      "Checksum": "3qDxxMxpWUY=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 Green.png",
-      "Checksum": "AC117BzNuII=",
-      "Size": 616
+      "Checksum": "UfDdrcbdov0=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 Pink.png",
-      "Checksum": "kQ3ieyNZvO8=",
-      "Size": 615
+      "Checksum": "QIB297N2Biw=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 Purple.png",
-      "Checksum": "cZpuz945OWw=",
-      "Size": 617
+      "Checksum": "pZ/MPBZpUYQ=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 Red.png",
-      "Checksum": "8m3kG8N0W0w=",
-      "Size": 614
+      "Checksum": "+9jPYjc1ezo=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 White.png",
-      "Checksum": "q4DtlJnM6gc=",
-      "Size": 616
+      "Checksum": "UHSSVL2YsuI=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Mask_1 Yellow.png",
-      "Checksum": "QZ4HkMSXbf8=",
-      "Size": 617
+      "Checksum": "eg3Te68t3cw=",
+      "Size": 1839
     },
     {
       "Path": "resources/paperdolls/Pants_1 Black.png",
-      "Checksum": "E/E4/zVc0HQ=",
-      "Size": 812
+      "Checksum": "AX5rJy6evaI=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 Blue.png",
-      "Checksum": "JWWa+THtE64=",
-      "Size": 811
+      "Checksum": "DnEI48LFYXs=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 Green.png",
-      "Checksum": "fi8L/AMtvvM=",
-      "Size": 812
+      "Checksum": "tsA3JYh7xLg=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 Pink.png",
-      "Checksum": "0odW2wOGs2U=",
-      "Size": 811
+      "Checksum": "8TjrD9mKsuE=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 Purple.png",
-      "Checksum": "iDgHhTTm/QQ=",
-      "Size": 813
+      "Checksum": "7U6wVVQKt24=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 Red.png",
-      "Checksum": "Egg0q70OhW8=",
-      "Size": 810
+      "Checksum": "jWdygJt4CQ8=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 White.png",
-      "Checksum": "9COrbpPkM1Y=",
-      "Size": 812
+      "Checksum": "RE/TuMLHhX8=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Pants_1 Yellow.png",
-      "Checksum": "XjPamhbynWQ=",
-      "Size": 813
+      "Checksum": "SoUs0MI45AU=",
+      "Size": 2170
     },
     {
       "Path": "resources/paperdolls/Robe_1 Black.png",
-      "Checksum": "/1CdUh0v5Ww=",
-      "Size": 1197
+      "Checksum": "5FXA3gRUeMU=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1 Brown.png",
-      "Checksum": "Dp9Xz6f8rBg=",
-      "Size": 1197
+      "Checksum": "1LxPdpWBVgg=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1 Green.png",
-      "Checksum": "t5e+uOoeLiQ=",
-      "Size": 1197
+      "Checksum": "7pmR5OYf+7E=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1 Pink.png",
-      "Checksum": "L5G8LV8auKE=",
-      "Size": 1196
+      "Checksum": "ELyP4BUkzs0=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1 Purple.png",
-      "Checksum": "ruTnaWpuwsw=",
-      "Size": 1198
+      "Checksum": "kmBDk0ESg6U=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1 Red.png",
-      "Checksum": "TXuOuYjzf2M=",
-      "Size": 1195
+      "Checksum": "BXWKe564/tQ=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1 Yellow.png",
-      "Checksum": "wDZZ3roOzOw=",
-      "Size": 1198
+      "Checksum": "RQXII7Q11a8=",
+      "Size": 2703
     },
     {
       "Path": "resources/paperdolls/Robe_1.png",
-      "Checksum": "M2QQpanZEKo=",
-      "Size": 1249
+      "Checksum": "DJSqQFG6Epk=",
+      "Size": 2791
     },
     {
       "Path": "resources/paperdolls/Robe_2 Black.png",
-      "Checksum": "hlhEyi1EeQ4=",
-      "Size": 902
+      "Checksum": "IjyY1Z7Hs74=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Blue.png",
-      "Checksum": "tNb9fO3H3Iw=",
-      "Size": 901
+      "Checksum": "4zI0NFB9wis=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Brown.png",
-      "Checksum": "4mU/L6rQRDQ=",
-      "Size": 902
+      "Checksum": "fb4D2AU0lAw=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Green.png",
-      "Checksum": "gbkcXNPzz4k=",
-      "Size": 902
+      "Checksum": "TnO84DPTZmY=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Pink.png",
-      "Checksum": "/0mgX9semvQ=",
-      "Size": 901
+      "Checksum": "RD+tyNwYlwY=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Purple.png",
-      "Checksum": "BwiyYOS2umc=",
-      "Size": 903
+      "Checksum": "kEj/ZoIsJgg=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Red.png",
-      "Checksum": "WJYeQCXqL4s=",
-      "Size": 900
+      "Checksum": "pretC89BrMA=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 White.png",
-      "Checksum": "gXa0YlDDFuU=",
-      "Size": 902
+      "Checksum": "8XZwX/a1E2s=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2 Yellow.png",
-      "Checksum": "2nMB5Ss1tvo=",
-      "Size": 903
+      "Checksum": "GQO87WNx1t8=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Robe_2F Black.png",
-      "Checksum": "qvCAzrWdEO4=",
-      "Size": 942
+      "Checksum": "N4typUiLowE=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Blue.png",
-      "Checksum": "oK6O28BZRQY=",
-      "Size": 941
+      "Checksum": "sj3FlUGv63M=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Brown.png",
-      "Checksum": "5qDG5ApQunE=",
-      "Size": 942
+      "Checksum": "BSp601YJQmw=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Green.png",
-      "Checksum": "lo5MzoViwS4=",
-      "Size": 942
+      "Checksum": "ac2d/YIg+go=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Pink.png",
-      "Checksum": "DhpbDU0PA70=",
-      "Size": 941
+      "Checksum": "Y48ZHeLdVek=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Purple.png",
-      "Checksum": "jpXlzKK3sAE=",
-      "Size": 943
+      "Checksum": "ipGY1L7IuSk=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Red.png",
-      "Checksum": "Zyx+yc7GJcY=",
-      "Size": 940
+      "Checksum": "auFo5IEwaHk=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F White.png",
-      "Checksum": "GZsGxlfNDks=",
-      "Size": 942
+      "Checksum": "kYPcsfvvWIo=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Robe_2F Yellow.png",
-      "Checksum": "Tm5DnfD3Tak=",
-      "Size": 943
+      "Checksum": "Qor4HnSCBxE=",
+      "Size": 2393
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Black.png",
-      "Checksum": "tjLg6lsd2Qc=",
-      "Size": 918
+      "Checksum": "CIKZeKqPkyk=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Blue.png",
-      "Checksum": "6d9oQIV7ng4=",
-      "Size": 917
+      "Checksum": "IVIFkWR48jU=",
+      "Size": 2370
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Brown.png",
-      "Checksum": "C1kGZG4L9iY=",
-      "Size": 918
+      "Checksum": "8HMWgq2HL/8=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Green.png",
-      "Checksum": "2V2x47t4lH8=",
-      "Size": 918
+      "Checksum": "xi+gdAz0a38=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Pink.png",
-      "Checksum": "OpoJD2NMfq0=",
-      "Size": 917
+      "Checksum": "N59XTLAx4S8=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Purple.png",
-      "Checksum": "UvqvsXJUDo4=",
-      "Size": 919
+      "Checksum": "oci6WceD+Eg=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Red.png",
-      "Checksum": "m+jBy161Ei0=",
-      "Size": 916
+      "Checksum": "jWAhQC6uF3s=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_1 Yellow.png",
-      "Checksum": "//mL7AKe9fI=",
-      "Size": 919
+      "Checksum": "cFr7WAmd3AA=",
+      "Size": 2357
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Black.png",
-      "Checksum": "uhZhtMp0Z/w=",
-      "Size": 844
+      "Checksum": "SW6I/zkwMpI=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Blue.png",
-      "Checksum": "KoRVrBdvQdI=",
-      "Size": 843
+      "Checksum": "38UAu0NH2pY=",
+      "Size": 2209
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Brown.png",
-      "Checksum": "LZqbNSjCLxE=",
-      "Size": 844
+      "Checksum": "i0Vfy9ZMzeY=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Green.png",
-      "Checksum": "Dh9EmVpImas=",
-      "Size": 844
+      "Checksum": "MTvvz+hnUZs=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Pink.png",
-      "Checksum": "TzwPVpaRC4Q=",
-      "Size": 843
+      "Checksum": "49Dhas1wlxY=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Purple.png",
-      "Checksum": "tmMMElw1uSk=",
-      "Size": 845
+      "Checksum": "6Hh/ani7Lpg=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Red.png",
-      "Checksum": "NSdYNo5kGGE=",
-      "Size": 842
+      "Checksum": "zAm7lwjJMaQ=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_2 Yellow.png",
-      "Checksum": "deNUrYbAghM=",
-      "Size": 845
+      "Checksum": "VyPMjL+z4ZA=",
+      "Size": 2196
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Black.png",
-      "Checksum": "QJa0e8BWZG8=",
-      "Size": 958
+      "Checksum": "tqEPFV4S3/E=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Blue.png",
-      "Checksum": "zSNaRXinGLg=",
-      "Size": 957
+      "Checksum": "CEqkHJJZtrY=",
+      "Size": 2355
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Brown.png",
-      "Checksum": "1TVBy1rV/Zc=",
-      "Size": 958
+      "Checksum": "Jj6Vp6lL5lk=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Green.png",
-      "Checksum": "NGwSrG7pqYo=",
-      "Size": 958
+      "Checksum": "ueOLkhy6isY=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Pink.png",
-      "Checksum": "ii3XH50wpUE=",
-      "Size": 957
+      "Checksum": "H787t3Bn5VM=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Purple.png",
-      "Checksum": "vvnuiuZWK7o=",
-      "Size": 959
+      "Checksum": "y8hpGS5TVF0=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Red.png",
-      "Checksum": "22EArD4Kngs=",
-      "Size": 956
+      "Checksum": "/Tc7dGM+3pU=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_3 Yellow.png",
-      "Checksum": "FZJF0XElI9w=",
-      "Size": 959
+      "Checksum": "QoMqks8OpIo=",
+      "Size": 2342
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Black.png",
-      "Checksum": "PDrJz9mQan0=",
-      "Size": 965
+      "Checksum": "M/kKhAJW32M=",
+      "Size": 2368
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Blue.png",
-      "Checksum": "L0Rh+iCDVEU=",
-      "Size": 968
+      "Checksum": "+P1z+Ku05QY=",
+      "Size": 2382
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Brown.png",
-      "Checksum": "Qa775Jr7NIU=",
-      "Size": 969
+      "Checksum": "+qHAnYLv0pU=",
+      "Size": 2369
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Green.png",
-      "Checksum": "SkfaFGxSFCU=",
-      "Size": 969
+      "Checksum": "zhgQR+6Z+Ek=",
+      "Size": 2369
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Pink.png",
-      "Checksum": "yD0AY0p3PO0=",
-      "Size": 968
+      "Checksum": "scNCVgkuyVU=",
+      "Size": 2369
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Purple.png",
-      "Checksum": "LP65q+7iptI=",
-      "Size": 970
+      "Checksum": "xDej99zB33g=",
+      "Size": 2369
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Red.png",
-      "Checksum": "d5AZT4wWAHQ=",
-      "Size": 967
+      "Checksum": "ot5J1Z44Vf4=",
+      "Size": 2369
     },
     {
       "Path": "resources/paperdolls/Shirt_4 Yellow.png",
-      "Checksum": "JkbDCZPovRo=",
-      "Size": 970
+      "Checksum": "s1j8T9wyGPk=",
+      "Size": 2369
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Black.png",
-      "Checksum": "U3Nmy8IXoQo=",
-      "Size": 845
+      "Checksum": "cHVa2LviKd0=",
+      "Size": 2203
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Blue.png",
-      "Checksum": "ooJghDSwrzQ=",
-      "Size": 844
+      "Checksum": "Z1lR8L+9Y7U=",
+      "Size": 2216
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Brown.png",
-      "Checksum": "x75ab8X2oAk=",
-      "Size": 845
+      "Checksum": "aolNGELi/DA=",
+      "Size": 2203
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Green.png",
-      "Checksum": "LCtVdD0uoPU=",
-      "Size": 845
+      "Checksum": "QMlXGVpM2aU=",
+      "Size": 2203
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Pink.png",
-      "Checksum": "xuVDyVnEpJg=",
-      "Size": 844
+      "Checksum": "Mx1JqaUVQL8=",
+      "Size": 2203
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Purple.png",
-      "Checksum": "4f8Yzp8Hj+U=",
-      "Size": 846
+      "Checksum": "JdnrY0L9ZL4=",
+      "Size": 2203
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Red.png",
-      "Checksum": "EfXDqtiUcEM=",
-      "Size": 843
+      "Checksum": "MSqfjZ0Pq4g=",
+      "Size": 2203
     },
     {
       "Path": "resources/paperdolls/Shirt_5 Yellow.png",
-      "Checksum": "20WlKnehKKc=",
-      "Size": 846
+      "Checksum": "bB6RSpLbotc=",
+      "Size": 2203
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 A Blue.png",
+      "Checksum": "3dMvHZlHMtI=",
+      "Size": 1984
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 A Green.png",
+      "Checksum": "ienf8hksbT8=",
+      "Size": 1984
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 A Red.png",
+      "Checksum": "icAC4jD4oQQ=",
+      "Size": 1984
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 Blue.png",
+      "Checksum": "jG3s+3hnrrU=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 Green.png",
+      "Checksum": "3CGMtCwFcso=",
+      "Size": 1981
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 Red.png",
+      "Checksum": "kYRXAMvctL4=",
+      "Size": 1981
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 White.png",
+      "Checksum": "d81MC4RgvEo=",
+      "Size": 1968
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_1 Yellow.png",
+      "Checksum": "x3F2EuPwXsg=",
+      "Size": 1981
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_2 Blue.png",
+      "Checksum": "2U+kI9nfek4=",
+      "Size": 1953
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_2 Green.png",
+      "Checksum": "uk1ViXuD2NA=",
+      "Size": 1953
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_2 Red.png",
+      "Checksum": "MZDqa6mrS2E=",
+      "Size": 1953
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_2 White.png",
+      "Checksum": "HjMJXZXy2Pg=",
+      "Size": 1953
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_2 Yellow.png",
+      "Checksum": "fKnjYybgsVU=",
+      "Size": 1953
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_3 Blue.png",
+      "Checksum": "mXZ0XEcpfXM=",
+      "Size": 1913
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_3 Green.png",
+      "Checksum": "HGoREURu3iI=",
+      "Size": 1913
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_3 Red.png",
+      "Checksum": "NhBlvbwMr3w=",
+      "Size": 1913
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_3 White.png",
+      "Checksum": "U6f68UfQiLs=",
+      "Size": 1913
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_3 Yellow.png",
+      "Checksum": "2bVSPw8t7Nc=",
+      "Size": 1913
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_4 White.png",
+      "Checksum": "wIF95UcaYu4=",
+      "Size": 2230
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 A Blue.png",
+      "Checksum": "vXZ2Du2DgmQ=",
+      "Size": 2023
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 A Red.png",
+      "Checksum": "spy/vSLvHT4=",
+      "Size": 2023
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Black.png",
+      "Checksum": "Uz1VWgBUkvA=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Blue.png",
+      "Checksum": "5Tu0uDbwE0I=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Brown.png",
+      "Checksum": "ogX2dVh8pA4=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Green.png",
+      "Checksum": "vt5BicpOAH4=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Pink.png",
+      "Checksum": "zUjN4LqgkPA=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Purple.png",
+      "Checksum": "T74vudmYLak=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Red.png",
+      "Checksum": "0/BNGCdjric=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 White.png",
+      "Checksum": "bMFLlrzOSpo=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_5 Yellow.png",
+      "Checksum": "UXM/NMlM+Ks=",
+      "Size": 2024
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Black.png",
+      "Checksum": "ZG3uWO/BofM=",
+      "Size": 2345
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Blue.png",
+      "Checksum": "//uVMee9Tqs=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Brown.png",
+      "Checksum": "YXei3bL0GIw=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Green.png",
+      "Checksum": "q/If8zb6IjQ=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Pink.png",
+      "Checksum": "WPYMzWvYG4Y=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Purple.png",
+      "Checksum": "jIFeYzXsqog=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Red.png",
+      "Checksum": "un4MDniBIEA=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 White.png",
+      "Checksum": "7b/RWkF1n+s=",
+      "Size": 2355
+    },
+    {
+      "Path": "resources/paperdolls/Shoulders_6 Yellow.png",
+      "Checksum": "Bcod6NSxWl8=",
+      "Size": 2355
     },
     {
       "Path": "resources/resources/1_Cactus Stump.png",
@@ -6659,6 +7134,1481 @@
       "Path": "resources/sounds/wood-small.wav",
       "Checksum": "yk/ZLH8P6S0=",
       "Size": 83546
+    },
+    {
+      "Path": "resources/spells/101.png",
+      "Checksum": "zK6q3dsnHJA=",
+      "Size": 1136
+    },
+    {
+      "Path": "resources/spells/1010.png",
+      "Checksum": "BESq74/roMo=",
+      "Size": 1135
+    },
+    {
+      "Path": "resources/spells/1010_2.png",
+      "Checksum": "eA7VjZaThYg=",
+      "Size": 1130
+    },
+    {
+      "Path": "resources/spells/1011.png",
+      "Checksum": "R04qRntjiUo=",
+      "Size": 1144
+    },
+    {
+      "Path": "resources/spells/1012.png",
+      "Checksum": "54EXPDnJ8VA=",
+      "Size": 1176
+    },
+    {
+      "Path": "resources/spells/1013.png",
+      "Checksum": "I2zOOOtNhPo=",
+      "Size": 1145
+    },
+    {
+      "Path": "resources/spells/1014.png",
+      "Checksum": "Jed19XQRYiU=",
+      "Size": 1186
+    },
+    {
+      "Path": "resources/spells/1015.png",
+      "Checksum": "aa9SYO/gyfw=",
+      "Size": 1123
+    },
+    {
+      "Path": "resources/spells/101_2.png",
+      "Checksum": "bPmSq0BdgI0=",
+      "Size": 1189
+    },
+    {
+      "Path": "resources/spells/102.png",
+      "Checksum": "Q2k7tpiC2sY=",
+      "Size": 1197
+    },
+    {
+      "Path": "resources/spells/102_2.png",
+      "Checksum": "C9B4nqOVSjU=",
+      "Size": 1154
+    },
+    {
+      "Path": "resources/spells/103.png",
+      "Checksum": "exrXvLBL0kM=",
+      "Size": 1171
+    },
+    {
+      "Path": "resources/spells/103_2.png",
+      "Checksum": "Z//lCO2GFjw=",
+      "Size": 1084
+    },
+    {
+      "Path": "resources/spells/104.png",
+      "Checksum": "DflJ02+V4cY=",
+      "Size": 1115
+    },
+    {
+      "Path": "resources/spells/104_2.png",
+      "Checksum": "DbAuSDaKehA=",
+      "Size": 1209
+    },
+    {
+      "Path": "resources/spells/105.png",
+      "Checksum": "+IIimpd6ruc=",
+      "Size": 1132
+    },
+    {
+      "Path": "resources/spells/105_2.png",
+      "Checksum": "s5+1TqDd4CA=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/spells/106.png",
+      "Checksum": "ROrj5ggycis=",
+      "Size": 1211
+    },
+    {
+      "Path": "resources/spells/106_2.png",
+      "Checksum": "/mUDTP+0fwE=",
+      "Size": 1209
+    },
+    {
+      "Path": "resources/spells/107.png",
+      "Checksum": "bUEMOy/GZ9I=",
+      "Size": 1104
+    },
+    {
+      "Path": "resources/spells/107_2.png",
+      "Checksum": "BEmUrRWHD9g=",
+      "Size": 1152
+    },
+    {
+      "Path": "resources/spells/108.png",
+      "Checksum": "0SF0VRuT5bU=",
+      "Size": 1115
+    },
+    {
+      "Path": "resources/spells/108_2.png",
+      "Checksum": "h6Id7q0VI6A=",
+      "Size": 1154
+    },
+    {
+      "Path": "resources/spells/109.png",
+      "Checksum": "XKU8wu+2zVQ=",
+      "Size": 1182
+    },
+    {
+      "Path": "resources/spells/109_2.png",
+      "Checksum": "EScv+1pJ4Q8=",
+      "Size": 1139
+    },
+    {
+      "Path": "resources/spells/11.png",
+      "Checksum": "jy6f8bVptKU=",
+      "Size": 1196
+    },
+    {
+      "Path": "resources/spells/110.png",
+      "Checksum": "IcHqbRFxCYw=",
+      "Size": 1209
+    },
+    {
+      "Path": "resources/spells/110_2.png",
+      "Checksum": "7TWXVFnOdSk=",
+      "Size": 1158
+    },
+    {
+      "Path": "resources/spells/111.png",
+      "Checksum": "7akGWC+X7c0=",
+      "Size": 1179
+    },
+    {
+      "Path": "resources/spells/1110.png",
+      "Checksum": "I6Df+DvFuis=",
+      "Size": 1127
+    },
+    {
+      "Path": "resources/spells/1110_2.png",
+      "Checksum": "+GiCkIJdlaw=",
+      "Size": 1138
+    },
+    {
+      "Path": "resources/spells/1111.png",
+      "Checksum": "O6Daj62/v3A=",
+      "Size": 1208
+    },
+    {
+      "Path": "resources/spells/1113.png",
+      "Checksum": "KPUpMzz14rk=",
+      "Size": 1247
+    },
+    {
+      "Path": "resources/spells/1114.png",
+      "Checksum": "XkZU5Lioesw=",
+      "Size": 1168
+    },
+    {
+      "Path": "resources/spells/111_2.png",
+      "Checksum": "bF96MM+AxfY=",
+      "Size": 1148
+    },
+    {
+      "Path": "resources/spells/111_3.png",
+      "Checksum": "omnklC88F0g=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/112.png",
+      "Checksum": "P1DgOt6PzxM=",
+      "Size": 1189
+    },
+    {
+      "Path": "resources/spells/112_2.png",
+      "Checksum": "VP3rmdjA6mE=",
+      "Size": 1173
+    },
+    {
+      "Path": "resources/spells/112_3.png",
+      "Checksum": "OvQdYwllutQ=",
+      "Size": 1170
+    },
+    {
+      "Path": "resources/spells/113.png",
+      "Checksum": "H1e/qMMvY18=",
+      "Size": 1234
+    },
+    {
+      "Path": "resources/spells/113_2.png",
+      "Checksum": "Z4cmBi6ObrE=",
+      "Size": 1148
+    },
+    {
+      "Path": "resources/spells/113_3.png",
+      "Checksum": "lzlGLEB5NgY=",
+      "Size": 1142
+    },
+    {
+      "Path": "resources/spells/114.png",
+      "Checksum": "+B4epoJTtK8=",
+      "Size": 1152
+    },
+    {
+      "Path": "resources/spells/114_2.png",
+      "Checksum": "K83OiAqbtQo=",
+      "Size": 1131
+    },
+    {
+      "Path": "resources/spells/114_3.png",
+      "Checksum": "rnC+tG5VZu0=",
+      "Size": 1194
+    },
+    {
+      "Path": "resources/spells/115.png",
+      "Checksum": "IfhuWmO+xz0=",
+      "Size": 1188
+    },
+    {
+      "Path": "resources/spells/115_2.png",
+      "Checksum": "Y16dnEXA5cI=",
+      "Size": 917
+    },
+    {
+      "Path": "resources/spells/115_3.png",
+      "Checksum": "YdSiw3odaZQ=",
+      "Size": 1233
+    },
+    {
+      "Path": "resources/spells/116.png",
+      "Checksum": "Hy0zqiHKwYc=",
+      "Size": 1174
+    },
+    {
+      "Path": "resources/spells/116_2.png",
+      "Checksum": "lR+BPRKikzg=",
+      "Size": 1183
+    },
+    {
+      "Path": "resources/spells/116_3.png",
+      "Checksum": "TyhLRmeH9AQ=",
+      "Size": 1249
+    },
+    {
+      "Path": "resources/spells/117.png",
+      "Checksum": "ocgEvaPcr+c=",
+      "Size": 1203
+    },
+    {
+      "Path": "resources/spells/117_2.png",
+      "Checksum": "Apt+318hvgo=",
+      "Size": 1209
+    },
+    {
+      "Path": "resources/spells/118.png",
+      "Checksum": "fWt9U4+IQwQ=",
+      "Size": 1197
+    },
+    {
+      "Path": "resources/spells/118_2.png",
+      "Checksum": "dhw+lAZVh3U=",
+      "Size": 1230
+    },
+    {
+      "Path": "resources/spells/119.png",
+      "Checksum": "XcxO7ikbwMI=",
+      "Size": 1088
+    },
+    {
+      "Path": "resources/spells/119_2.png",
+      "Checksum": "z+yOrZlQ7Ec=",
+      "Size": 1125
+    },
+    {
+      "Path": "resources/spells/11_2.png",
+      "Checksum": "5UDbMem21MY=",
+      "Size": 1234
+    },
+    {
+      "Path": "resources/spells/12.png",
+      "Checksum": "sx0C4xrfAYA=",
+      "Size": 962
+    },
+    {
+      "Path": "resources/spells/121.png",
+      "Checksum": "3dYkGxJSnN4=",
+      "Size": 1136
+    },
+    {
+      "Path": "resources/spells/1210.png",
+      "Checksum": "WPSvwxuUwzY=",
+      "Size": 1206
+    },
+    {
+      "Path": "resources/spells/1210_2.png",
+      "Checksum": "DrSRbSk5YWI=",
+      "Size": 1184
+    },
+    {
+      "Path": "resources/spells/121_2.png",
+      "Checksum": "SKCslCM6LwU=",
+      "Size": 1172
+    },
+    {
+      "Path": "resources/spells/122.png",
+      "Checksum": "PKyP2+soKyA=",
+      "Size": 1197
+    },
+    {
+      "Path": "resources/spells/122_2.png",
+      "Checksum": "msv2S4SGjZA=",
+      "Size": 1185
+    },
+    {
+      "Path": "resources/spells/123.png",
+      "Checksum": "uxmD3Vej5Q8=",
+      "Size": 1162
+    },
+    {
+      "Path": "resources/spells/123_2.png",
+      "Checksum": "IVxTPmHIoI0=",
+      "Size": 1205
+    },
+    {
+      "Path": "resources/spells/124.png",
+      "Checksum": "1QWkyvr/+ts=",
+      "Size": 1204
+    },
+    {
+      "Path": "resources/spells/125.png",
+      "Checksum": "tb8mVOwHWyM=",
+      "Size": 1225
+    },
+    {
+      "Path": "resources/spells/126.png",
+      "Checksum": "wIsXdEd7X54=",
+      "Size": 1180
+    },
+    {
+      "Path": "resources/spells/127.png",
+      "Checksum": "k5IAiQeBq+g=",
+      "Size": 1185
+    },
+    {
+      "Path": "resources/spells/128.png",
+      "Checksum": "j5UQJP0Y9/M=",
+      "Size": 1175
+    },
+    {
+      "Path": "resources/spells/128_2.png",
+      "Checksum": "MCJYn++sjz0=",
+      "Size": 1162
+    },
+    {
+      "Path": "resources/spells/129.png",
+      "Checksum": "Lfyr11drMv4=",
+      "Size": 1151
+    },
+    {
+      "Path": "resources/spells/129_2.png",
+      "Checksum": "6Xab4fYiPNk=",
+      "Size": 1083
+    },
+    {
+      "Path": "resources/spells/12_2.png",
+      "Checksum": "pcXYHR8O3lw=",
+      "Size": 1195
+    },
+    {
+      "Path": "resources/spells/13.png",
+      "Checksum": "zm4GV6z705M=",
+      "Size": 1153
+    },
+    {
+      "Path": "resources/spells/131.png",
+      "Checksum": "aiOH6KjEvJA=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/132.png",
+      "Checksum": "Dr76p3ZzFpA=",
+      "Size": 1147
+    },
+    {
+      "Path": "resources/spells/133.png",
+      "Checksum": "8sRntzY8Igo=",
+      "Size": 1210
+    },
+    {
+      "Path": "resources/spells/13_2.png",
+      "Checksum": "i6pkkvb48p4=",
+      "Size": 1143
+    },
+    {
+      "Path": "resources/spells/14.png",
+      "Checksum": "8JsjdRkgf+M=",
+      "Size": 1065
+    },
+    {
+      "Path": "resources/spells/141.png",
+      "Checksum": "hvFhgqzoRDo=",
+      "Size": 1225
+    },
+    {
+      "Path": "resources/spells/142.png",
+      "Checksum": "6QWYbvCU7Es=",
+      "Size": 1130
+    },
+    {
+      "Path": "resources/spells/14_2.png",
+      "Checksum": "hBQOdkRBIuQ=",
+      "Size": 1219
+    },
+    {
+      "Path": "resources/spells/15.png",
+      "Checksum": "Xi+ACAYHJJ0=",
+      "Size": 1125
+    },
+    {
+      "Path": "resources/spells/15_2.png",
+      "Checksum": "wUJCeEITazI=",
+      "Size": 1210
+    },
+    {
+      "Path": "resources/spells/16.png",
+      "Checksum": "KPNzyXvTk1I=",
+      "Size": 1199
+    },
+    {
+      "Path": "resources/spells/16_2.png",
+      "Checksum": "6Rl1xkK2bp8=",
+      "Size": 1201
+    },
+    {
+      "Path": "resources/spells/17.png",
+      "Checksum": "xDbQXJRHqvM=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/17_2.png",
+      "Checksum": "ztD7hZFNib0=",
+      "Size": 1229
+    },
+    {
+      "Path": "resources/spells/18.png",
+      "Checksum": "A8YXdA2OMeU=",
+      "Size": 1220
+    },
+    {
+      "Path": "resources/spells/18_2.png",
+      "Checksum": "F0KV7Tn74RU=",
+      "Size": 1196
+    },
+    {
+      "Path": "resources/spells/19.png",
+      "Checksum": "jJVDxeikToE=",
+      "Size": 1147
+    },
+    {
+      "Path": "resources/spells/19_2.png",
+      "Checksum": "Ytuypeftgp4=",
+      "Size": 1154
+    },
+    {
+      "Path": "resources/spells/21.png",
+      "Checksum": "UJ86YivZyu4=",
+      "Size": 1126
+    },
+    {
+      "Path": "resources/spells/210.png",
+      "Checksum": "PnZaRyjSKIQ=",
+      "Size": 1195
+    },
+    {
+      "Path": "resources/spells/210_2.png",
+      "Checksum": "xj5dzC6USAE=",
+      "Size": 1150
+    },
+    {
+      "Path": "resources/spells/211.png",
+      "Checksum": "7tzb4Amtji8=",
+      "Size": 1120
+    },
+    {
+      "Path": "resources/spells/212.png",
+      "Checksum": "hFX367lbTh0=",
+      "Size": 1096
+    },
+    {
+      "Path": "resources/spells/213.png",
+      "Checksum": "o1XzDGYy4WM=",
+      "Size": 1165
+    },
+    {
+      "Path": "resources/spells/214.png",
+      "Checksum": "m33/1Lnc4Uw=",
+      "Size": 1211
+    },
+    {
+      "Path": "resources/spells/215.png",
+      "Checksum": "mVdYWLXP0xc=",
+      "Size": 1066
+    },
+    {
+      "Path": "resources/spells/21_2.png",
+      "Checksum": "BorEju6l0GY=",
+      "Size": 1181
+    },
+    {
+      "Path": "resources/spells/22.png",
+      "Checksum": "aWj5eH6wP0A=",
+      "Size": 1154
+    },
+    {
+      "Path": "resources/spells/22_2.png",
+      "Checksum": "wu3Q+S4+bqE=",
+      "Size": 1189
+    },
+    {
+      "Path": "resources/spells/23.png",
+      "Checksum": "qwfEJI0yyR4=",
+      "Size": 1176
+    },
+    {
+      "Path": "resources/spells/23_2.png",
+      "Checksum": "CiK27vtBF2k=",
+      "Size": 1001
+    },
+    {
+      "Path": "resources/spells/24.png",
+      "Checksum": "eP3K85AlZHU=",
+      "Size": 1106
+    },
+    {
+      "Path": "resources/spells/24_2.png",
+      "Checksum": "icFV/+fVzJk=",
+      "Size": 1177
+    },
+    {
+      "Path": "resources/spells/25.png",
+      "Checksum": "YSgWH4Q5MEE=",
+      "Size": 1112
+    },
+    {
+      "Path": "resources/spells/25_2.png",
+      "Checksum": "XWLjtJLaHWI=",
+      "Size": 1196
+    },
+    {
+      "Path": "resources/spells/26.png",
+      "Checksum": "WD1t62iz3TM=",
+      "Size": 1198
+    },
+    {
+      "Path": "resources/spells/26_2.png",
+      "Checksum": "z2IO7Zdjpzg=",
+      "Size": 1115
+    },
+    {
+      "Path": "resources/spells/27.png",
+      "Checksum": "Tlsjoslqapg=",
+      "Size": 1133
+    },
+    {
+      "Path": "resources/spells/27_2.png",
+      "Checksum": "DkelPauP2bI=",
+      "Size": 1154
+    },
+    {
+      "Path": "resources/spells/28.png",
+      "Checksum": "SYx8iBlrt+E=",
+      "Size": 1212
+    },
+    {
+      "Path": "resources/spells/28_2.png",
+      "Checksum": "oee8kB8Wm10=",
+      "Size": 1155
+    },
+    {
+      "Path": "resources/spells/29.png",
+      "Checksum": "/ilT2lpjsao=",
+      "Size": 1199
+    },
+    {
+      "Path": "resources/spells/29_2.png",
+      "Checksum": "prmTnttf9wI=",
+      "Size": 1197
+    },
+    {
+      "Path": "resources/spells/31.png",
+      "Checksum": "3Wk/2Gjwkxw=",
+      "Size": 1146
+    },
+    {
+      "Path": "resources/spells/310.png",
+      "Checksum": "L/ojSfMt2f0=",
+      "Size": 1167
+    },
+    {
+      "Path": "resources/spells/310_2.png",
+      "Checksum": "JO9olSC8H9M=",
+      "Size": 1153
+    },
+    {
+      "Path": "resources/spells/311.png",
+      "Checksum": "zLITy/fU4ww=",
+      "Size": 1180
+    },
+    {
+      "Path": "resources/spells/312.png",
+      "Checksum": "c7THwoeAOfU=",
+      "Size": 1123
+    },
+    {
+      "Path": "resources/spells/313.png",
+      "Checksum": "UediuWGorHM=",
+      "Size": 1126
+    },
+    {
+      "Path": "resources/spells/314.png",
+      "Checksum": "pTahuyOfwBI=",
+      "Size": 1166
+    },
+    {
+      "Path": "resources/spells/315.png",
+      "Checksum": "XrOJPwsaBDg=",
+      "Size": 1094
+    },
+    {
+      "Path": "resources/spells/31_2.png",
+      "Checksum": "9qAgMravt0Y=",
+      "Size": 1202
+    },
+    {
+      "Path": "resources/spells/32.png",
+      "Checksum": "MwfQvisUQb0=",
+      "Size": 1111
+    },
+    {
+      "Path": "resources/spells/32_2.png",
+      "Checksum": "u/X8q8nT+TE=",
+      "Size": 1168
+    },
+    {
+      "Path": "resources/spells/33.png",
+      "Checksum": "tk1Kyo7cyvo=",
+      "Size": 1141
+    },
+    {
+      "Path": "resources/spells/33_2.png",
+      "Checksum": "qgW/MS17z1Q=",
+      "Size": 1148
+    },
+    {
+      "Path": "resources/spells/34.png",
+      "Checksum": "E10O/sxgbNs=",
+      "Size": 1114
+    },
+    {
+      "Path": "resources/spells/34_2.png",
+      "Checksum": "im3n++y9HXo=",
+      "Size": 1219
+    },
+    {
+      "Path": "resources/spells/35.png",
+      "Checksum": "d7zvO1f4/r4=",
+      "Size": 1168
+    },
+    {
+      "Path": "resources/spells/35_2.png",
+      "Checksum": "/xC+eWwW22M=",
+      "Size": 1160
+    },
+    {
+      "Path": "resources/spells/36.png",
+      "Checksum": "N4ynG0HeFRI=",
+      "Size": 1127
+    },
+    {
+      "Path": "resources/spells/36_2.png",
+      "Checksum": "4fIQF3Hleq4=",
+      "Size": 1123
+    },
+    {
+      "Path": "resources/spells/37.png",
+      "Checksum": "j4WMI1A/9QM=",
+      "Size": 1117
+    },
+    {
+      "Path": "resources/spells/37_2.png",
+      "Checksum": "Ie+MSVIuTK4=",
+      "Size": 1125
+    },
+    {
+      "Path": "resources/spells/38.png",
+      "Checksum": "RoAkfT08IF0=",
+      "Size": 1197
+    },
+    {
+      "Path": "resources/spells/38_2.png",
+      "Checksum": "Di5GxHAmHPw=",
+      "Size": 1078
+    },
+    {
+      "Path": "resources/spells/39.png",
+      "Checksum": "xt+13vinHGg=",
+      "Size": 1143
+    },
+    {
+      "Path": "resources/spells/39_2.png",
+      "Checksum": "tHf/PHZ693I=",
+      "Size": 1205
+    },
+    {
+      "Path": "resources/spells/41.png",
+      "Checksum": "Bmc4TPGg/dI=",
+      "Size": 1117
+    },
+    {
+      "Path": "resources/spells/410.png",
+      "Checksum": "bDNPrenMVqk=",
+      "Size": 1194
+    },
+    {
+      "Path": "resources/spells/410_2.png",
+      "Checksum": "q2T+NG6TZ4A=",
+      "Size": 1180
+    },
+    {
+      "Path": "resources/spells/411.png",
+      "Checksum": "Zus79JxZ95M=",
+      "Size": 1175
+    },
+    {
+      "Path": "resources/spells/412.png",
+      "Checksum": "yONjQML9ODQ=",
+      "Size": 1229
+    },
+    {
+      "Path": "resources/spells/413.png",
+      "Checksum": "VSMXRNEU9Ws=",
+      "Size": 1179
+    },
+    {
+      "Path": "resources/spells/414.png",
+      "Checksum": "6mFSh9ODPQc=",
+      "Size": 1202
+    },
+    {
+      "Path": "resources/spells/415.png",
+      "Checksum": "zF5ShoOGyQs=",
+      "Size": 1252
+    },
+    {
+      "Path": "resources/spells/41_2.png",
+      "Checksum": "vddWanlcU2Y=",
+      "Size": 1232
+    },
+    {
+      "Path": "resources/spells/42.png",
+      "Checksum": "As0ocXIA94c=",
+      "Size": 1204
+    },
+    {
+      "Path": "resources/spells/42_2.png",
+      "Checksum": "tF+0qCAV0UU=",
+      "Size": 1231
+    },
+    {
+      "Path": "resources/spells/43.png",
+      "Checksum": "2sftw8tz6Yc=",
+      "Size": 1170
+    },
+    {
+      "Path": "resources/spells/43_2.png",
+      "Checksum": "frmePw8YBRo=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/44.png",
+      "Checksum": "tJ2QGqRgc9I=",
+      "Size": 1160
+    },
+    {
+      "Path": "resources/spells/44_2.png",
+      "Checksum": "+ouSD1Q+tz8=",
+      "Size": 1188
+    },
+    {
+      "Path": "resources/spells/45.png",
+      "Checksum": "m4tUtt71zt4=",
+      "Size": 1208
+    },
+    {
+      "Path": "resources/spells/45_2.png",
+      "Checksum": "7jfPhruaCq4=",
+      "Size": 1151
+    },
+    {
+      "Path": "resources/spells/46.png",
+      "Checksum": "b8oFij9u79A=",
+      "Size": 1187
+    },
+    {
+      "Path": "resources/spells/46_2.png",
+      "Checksum": "OrFLDrOiPoM=",
+      "Size": 1227
+    },
+    {
+      "Path": "resources/spells/47.png",
+      "Checksum": "EBivhCbzKzE=",
+      "Size": 1231
+    },
+    {
+      "Path": "resources/spells/47_2.png",
+      "Checksum": "oQwdpwsFU+M=",
+      "Size": 1193
+    },
+    {
+      "Path": "resources/spells/48.png",
+      "Checksum": "/OzpE5pmP+w=",
+      "Size": 1250
+    },
+    {
+      "Path": "resources/spells/48_2.png",
+      "Checksum": "ZMJi7fAFIXs=",
+      "Size": 1085
+    },
+    {
+      "Path": "resources/spells/49.png",
+      "Checksum": "vwUFl1S1x+M=",
+      "Size": 1181
+    },
+    {
+      "Path": "resources/spells/49_2.png",
+      "Checksum": "OmmgXvb/WwI=",
+      "Size": 1169
+    },
+    {
+      "Path": "resources/spells/51.png",
+      "Checksum": "n/wwfrj4Tkg=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/spells/510.png",
+      "Checksum": "gQXutZcChxo=",
+      "Size": 1176
+    },
+    {
+      "Path": "resources/spells/510_2.png",
+      "Checksum": "0FnqxVryG00=",
+      "Size": 1170
+    },
+    {
+      "Path": "resources/spells/511.png",
+      "Checksum": "GxHvyb3EgZw=",
+      "Size": 1199
+    },
+    {
+      "Path": "resources/spells/512.png",
+      "Checksum": "nKa0KCqmc6g=",
+      "Size": 1232
+    },
+    {
+      "Path": "resources/spells/513.png",
+      "Checksum": "0wFoQAmBzZo=",
+      "Size": 1194
+    },
+    {
+      "Path": "resources/spells/514.png",
+      "Checksum": "uEoXQuac3kg=",
+      "Size": 1199
+    },
+    {
+      "Path": "resources/spells/515.png",
+      "Checksum": "cFPclIwpz9E=",
+      "Size": 1167
+    },
+    {
+      "Path": "resources/spells/51_2.png",
+      "Checksum": "BEJyq1uRR/k=",
+      "Size": 1179
+    },
+    {
+      "Path": "resources/spells/52.png",
+      "Checksum": "meN8NsvUagY=",
+      "Size": 1122
+    },
+    {
+      "Path": "resources/spells/52_2.png",
+      "Checksum": "FNOyPepyhxc=",
+      "Size": 1218
+    },
+    {
+      "Path": "resources/spells/53.png",
+      "Checksum": "T2ewJiLIgKY=",
+      "Size": 1109
+    },
+    {
+      "Path": "resources/spells/53_2.png",
+      "Checksum": "tdBiJq4MWRo=",
+      "Size": 1202
+    },
+    {
+      "Path": "resources/spells/54.png",
+      "Checksum": "LSnLpSymAIY=",
+      "Size": 1151
+    },
+    {
+      "Path": "resources/spells/54_2.png",
+      "Checksum": "t1am+cFlWY0=",
+      "Size": 1120
+    },
+    {
+      "Path": "resources/spells/55.png",
+      "Checksum": "Fip0i7IZVcI=",
+      "Size": 1130
+    },
+    {
+      "Path": "resources/spells/55_2.png",
+      "Checksum": "uUX6AKFvWF0=",
+      "Size": 1213
+    },
+    {
+      "Path": "resources/spells/56.png",
+      "Checksum": "oPOG7OXK6uU=",
+      "Size": 1195
+    },
+    {
+      "Path": "resources/spells/56_2.png",
+      "Checksum": "4J/VVxtiHqI=",
+      "Size": 1228
+    },
+    {
+      "Path": "resources/spells/57.png",
+      "Checksum": "w2xz/s4bkDQ=",
+      "Size": 1069
+    },
+    {
+      "Path": "resources/spells/57_2.png",
+      "Checksum": "AbCumU1kRvE=",
+      "Size": 1243
+    },
+    {
+      "Path": "resources/spells/58.png",
+      "Checksum": "xUAGbgQMyuU=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/spells/58_2.png",
+      "Checksum": "awiLEFeJXBg=",
+      "Size": 1160
+    },
+    {
+      "Path": "resources/spells/59.png",
+      "Checksum": "VxG2PDkIFGo=",
+      "Size": 1130
+    },
+    {
+      "Path": "resources/spells/59_2.png",
+      "Checksum": "8NWFCXlKdJU=",
+      "Size": 1210
+    },
+    {
+      "Path": "resources/spells/61.png",
+      "Checksum": "4gbyIcK24tA=",
+      "Size": 1231
+    },
+    {
+      "Path": "resources/spells/610.png",
+      "Checksum": "ANofmPlQo9o=",
+      "Size": 1196
+    },
+    {
+      "Path": "resources/spells/610_2.png",
+      "Checksum": "tQq2KPLCpEw=",
+      "Size": 1230
+    },
+    {
+      "Path": "resources/spells/611.png",
+      "Checksum": "nYJB/73xY4Q=",
+      "Size": 1175
+    },
+    {
+      "Path": "resources/spells/612.png",
+      "Checksum": "xsWnXiych+Y=",
+      "Size": 1194
+    },
+    {
+      "Path": "resources/spells/613.png",
+      "Checksum": "pe1dL+Y+jM8=",
+      "Size": 1132
+    },
+    {
+      "Path": "resources/spells/614.png",
+      "Checksum": "cs+W2DZ26ig=",
+      "Size": 1150
+    },
+    {
+      "Path": "resources/spells/615.png",
+      "Checksum": "hbsOU6+UBVE=",
+      "Size": 1191
+    },
+    {
+      "Path": "resources/spells/61_2.png",
+      "Checksum": "d9AKReDyIqs=",
+      "Size": 1155
+    },
+    {
+      "Path": "resources/spells/62.png",
+      "Checksum": "n7uELBPpFVk=",
+      "Size": 1169
+    },
+    {
+      "Path": "resources/spells/62_2.png",
+      "Checksum": "fzoVWgchVU8=",
+      "Size": 1176
+    },
+    {
+      "Path": "resources/spells/63.png",
+      "Checksum": "qEjkyxqh48U=",
+      "Size": 1192
+    },
+    {
+      "Path": "resources/spells/63_2.png",
+      "Checksum": "lbq9gCT7LWM=",
+      "Size": 1173
+    },
+    {
+      "Path": "resources/spells/64.png",
+      "Checksum": "E9uRoCCCiuE=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/spells/64_2.png",
+      "Checksum": "+Pz3b8Je/dc=",
+      "Size": 1195
+    },
+    {
+      "Path": "resources/spells/65.png",
+      "Checksum": "6R4iDMpjrBY=",
+      "Size": 1201
+    },
+    {
+      "Path": "resources/spells/65_2.png",
+      "Checksum": "n28iZcqFVCU=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/66.png",
+      "Checksum": "E8k59/VhLkA=",
+      "Size": 1214
+    },
+    {
+      "Path": "resources/spells/66_2.png",
+      "Checksum": "IACuA99V/GM=",
+      "Size": 1188
+    },
+    {
+      "Path": "resources/spells/67.png",
+      "Checksum": "lo9KJVukN80=",
+      "Size": 1104
+    },
+    {
+      "Path": "resources/spells/67_2.png",
+      "Checksum": "xhbxCQAcBmI=",
+      "Size": 1100
+    },
+    {
+      "Path": "resources/spells/68.png",
+      "Checksum": "g/IT0y9MFx0=",
+      "Size": 1226
+    },
+    {
+      "Path": "resources/spells/68_2.png",
+      "Checksum": "I15gMGVopbc=",
+      "Size": 1172
+    },
+    {
+      "Path": "resources/spells/69.png",
+      "Checksum": "JuDhZ+RP4D4=",
+      "Size": 1072
+    },
+    {
+      "Path": "resources/spells/69_2.png",
+      "Checksum": "gB+RRKy51JI=",
+      "Size": 1156
+    },
+    {
+      "Path": "resources/spells/71.png",
+      "Checksum": "YHpZK2wLs3s=",
+      "Size": 1061
+    },
+    {
+      "Path": "resources/spells/710.png",
+      "Checksum": "o9qaY4Y/Pyc=",
+      "Size": 1200
+    },
+    {
+      "Path": "resources/spells/710_2.png",
+      "Checksum": "1rk4eRNazAU=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/711.png",
+      "Checksum": "fISjpl53gZQ=",
+      "Size": 1184
+    },
+    {
+      "Path": "resources/spells/712.png",
+      "Checksum": "fgnGL1I+ZsI=",
+      "Size": 1131
+    },
+    {
+      "Path": "resources/spells/713.png",
+      "Checksum": "A2pcgw4DZlA=",
+      "Size": 1104
+    },
+    {
+      "Path": "resources/spells/714.png",
+      "Checksum": "xMjAreh698k=",
+      "Size": 1180
+    },
+    {
+      "Path": "resources/spells/715.png",
+      "Checksum": "mnKEwLqusRw=",
+      "Size": 1208
+    },
+    {
+      "Path": "resources/spells/71_2.png",
+      "Checksum": "nw+EQ+NvYE4=",
+      "Size": 1224
+    },
+    {
+      "Path": "resources/spells/72.png",
+      "Checksum": "8f7BDef+CZU=",
+      "Size": 1119
+    },
+    {
+      "Path": "resources/spells/72_2.png",
+      "Checksum": "NnDaU59Nm5M=",
+      "Size": 1088
+    },
+    {
+      "Path": "resources/spells/73.png",
+      "Checksum": "jDiu3qm9Uww=",
+      "Size": 1209
+    },
+    {
+      "Path": "resources/spells/73_2.png",
+      "Checksum": "fcpV8GudOp4=",
+      "Size": 1091
+    },
+    {
+      "Path": "resources/spells/74.png",
+      "Checksum": "N0yJzgU9d1s=",
+      "Size": 1147
+    },
+    {
+      "Path": "resources/spells/74_2.png",
+      "Checksum": "hbFaQiqWS2Y=",
+      "Size": 1167
+    },
+    {
+      "Path": "resources/spells/75.png",
+      "Checksum": "yt7qTKcTh6U=",
+      "Size": 1156
+    },
+    {
+      "Path": "resources/spells/75_2.png",
+      "Checksum": "wXvOjsO2UH4=",
+      "Size": 1234
+    },
+    {
+      "Path": "resources/spells/76.png",
+      "Checksum": "DfuJrNucHD4=",
+      "Size": 1187
+    },
+    {
+      "Path": "resources/spells/76_2.png",
+      "Checksum": "h54oCgRbHAo=",
+      "Size": 1222
+    },
+    {
+      "Path": "resources/spells/77.png",
+      "Checksum": "ncjPHp8DlDM=",
+      "Size": 1170
+    },
+    {
+      "Path": "resources/spells/77_2.png",
+      "Checksum": "8OrpKjWCjgo=",
+      "Size": 1054
+    },
+    {
+      "Path": "resources/spells/78.png",
+      "Checksum": "izrsNRZ7UF8=",
+      "Size": 1193
+    },
+    {
+      "Path": "resources/spells/78_2.png",
+      "Checksum": "Fvb1imArl/g=",
+      "Size": 1194
+    },
+    {
+      "Path": "resources/spells/79.png",
+      "Checksum": "oLjtjF0YSLI=",
+      "Size": 1100
+    },
+    {
+      "Path": "resources/spells/79_2.png",
+      "Checksum": "O6aQGd520Mk=",
+      "Size": 1205
+    },
+    {
+      "Path": "resources/spells/81.png",
+      "Checksum": "AK+OyoWACL4=",
+      "Size": 1133
+    },
+    {
+      "Path": "resources/spells/810.png",
+      "Checksum": "gKsja42hOV0=",
+      "Size": 1084
+    },
+    {
+      "Path": "resources/spells/810_2.png",
+      "Checksum": "wbNZov2B1Dk=",
+      "Size": 1148
+    },
+    {
+      "Path": "resources/spells/811.png",
+      "Checksum": "c0KN9jhopSI=",
+      "Size": 1185
+    },
+    {
+      "Path": "resources/spells/812.png",
+      "Checksum": "WA8ANVhQIXw=",
+      "Size": 1218
+    },
+    {
+      "Path": "resources/spells/813.png",
+      "Checksum": "Cbo38ECJsGY=",
+      "Size": 1203
+    },
+    {
+      "Path": "resources/spells/814.png",
+      "Checksum": "EQQVGL+0TOw=",
+      "Size": 1128
+    },
+    {
+      "Path": "resources/spells/815.png",
+      "Checksum": "DvcBCn2CBok=",
+      "Size": 1194
+    },
+    {
+      "Path": "resources/spells/81_2.png",
+      "Checksum": "XqbzHt1CnEQ=",
+      "Size": 1200
+    },
+    {
+      "Path": "resources/spells/82.png",
+      "Checksum": "cG5HCwAeEvM=",
+      "Size": 1095
+    },
+    {
+      "Path": "resources/spells/82_2.png",
+      "Checksum": "NfKvZB4EPwo=",
+      "Size": 1216
+    },
+    {
+      "Path": "resources/spells/83.png",
+      "Checksum": "geECkmHKb6U=",
+      "Size": 1172
+    },
+    {
+      "Path": "resources/spells/83_2.png",
+      "Checksum": "GeCJix8iwjs=",
+      "Size": 1226
+    },
+    {
+      "Path": "resources/spells/84.png",
+      "Checksum": "nEaNCduLydg=",
+      "Size": 1160
+    },
+    {
+      "Path": "resources/spells/84_2.png",
+      "Checksum": "y4BOWMR3w1M=",
+      "Size": 1183
+    },
+    {
+      "Path": "resources/spells/85.png",
+      "Checksum": "0JBRW2C2u+s=",
+      "Size": 1186
+    },
+    {
+      "Path": "resources/spells/85_2.png",
+      "Checksum": "4HKWEcqdmMw=",
+      "Size": 1199
+    },
+    {
+      "Path": "resources/spells/86.png",
+      "Checksum": "n3G8M/USiyM=",
+      "Size": 1100
+    },
+    {
+      "Path": "resources/spells/86_2.png",
+      "Checksum": "0HFZio8ltD8=",
+      "Size": 1166
+    },
+    {
+      "Path": "resources/spells/87.png",
+      "Checksum": "rlIPD3WDwQA=",
+      "Size": 1086
+    },
+    {
+      "Path": "resources/spells/87_2.png",
+      "Checksum": "IT4kf2UusZc=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/spells/88.png",
+      "Checksum": "C9YfG3HdG0M=",
+      "Size": 1221
+    },
+    {
+      "Path": "resources/spells/88_2.png",
+      "Checksum": "wStdY7eQKao=",
+      "Size": 1201
+    },
+    {
+      "Path": "resources/spells/89.png",
+      "Checksum": "fPBS2hixqos=",
+      "Size": 1226
+    },
+    {
+      "Path": "resources/spells/89_2.png",
+      "Checksum": "6p6YS81ob58=",
+      "Size": 1186
+    },
+    {
+      "Path": "resources/spells/91.png",
+      "Checksum": "1K8tpaunxw0=",
+      "Size": 1052
+    },
+    {
+      "Path": "resources/spells/910.png",
+      "Checksum": "d7AZGJUVl9Q=",
+      "Size": 1178
+    },
+    {
+      "Path": "resources/spells/910_2.png",
+      "Checksum": "uIAoZSQ84R8=",
+      "Size": 1158
+    },
+    {
+      "Path": "resources/spells/911.png",
+      "Checksum": "bM9wChE+Y0A=",
+      "Size": 1149
+    },
+    {
+      "Path": "resources/spells/912.png",
+      "Checksum": "5Nlow0djwPM=",
+      "Size": 1253
+    },
+    {
+      "Path": "resources/spells/913.png",
+      "Checksum": "aPNWfInkisw=",
+      "Size": 1196
+    },
+    {
+      "Path": "resources/spells/914.png",
+      "Checksum": "aaQwW3kUYdQ=",
+      "Size": 1199
+    },
+    {
+      "Path": "resources/spells/915.png",
+      "Checksum": "jnFE3opwchU=",
+      "Size": 1217
+    },
+    {
+      "Path": "resources/spells/91_2.png",
+      "Checksum": "HOFYHl0IoI0=",
+      "Size": 1257
+    },
+    {
+      "Path": "resources/spells/92.png",
+      "Checksum": "dShHwRPebjw=",
+      "Size": 819
+    },
+    {
+      "Path": "resources/spells/92_2.png",
+      "Checksum": "8u2XTIDiwjs=",
+      "Size": 1207
+    },
+    {
+      "Path": "resources/spells/93.png",
+      "Checksum": "gqtxkrDVkPU=",
+      "Size": 1094
+    },
+    {
+      "Path": "resources/spells/93_2.png",
+      "Checksum": "kSr9lcTdtjs=",
+      "Size": 1217
+    },
+    {
+      "Path": "resources/spells/94.png",
+      "Checksum": "MO+w+SQFCdk=",
+      "Size": 1164
+    },
+    {
+      "Path": "resources/spells/94_2.png",
+      "Checksum": "FZvaAUeb+u8=",
+      "Size": 1190
+    },
+    {
+      "Path": "resources/spells/95.png",
+      "Checksum": "8Z8JKtks6hE=",
+      "Size": 1126
+    },
+    {
+      "Path": "resources/spells/95_2.png",
+      "Checksum": "w6GBskPVTbU=",
+      "Size": 1201
+    },
+    {
+      "Path": "resources/spells/96.png",
+      "Checksum": "Ha3xqnBW0oU=",
+      "Size": 1121
+    },
+    {
+      "Path": "resources/spells/96_2.png",
+      "Checksum": "Xvv5/j9/xqw=",
+      "Size": 1226
+    },
+    {
+      "Path": "resources/spells/97.png",
+      "Checksum": "mW7jnbnROog=",
+      "Size": 1170
+    },
+    {
+      "Path": "resources/spells/97_2.png",
+      "Checksum": "shT1shauzdw=",
+      "Size": 1252
+    },
+    {
+      "Path": "resources/spells/98.png",
+      "Checksum": "dg80p36C/Bw=",
+      "Size": 1239
+    },
+    {
+      "Path": "resources/spells/98_2.png",
+      "Checksum": "DpMXA5FY5i0=",
+      "Size": 1213
+    },
+    {
+      "Path": "resources/spells/99.png",
+      "Checksum": "annOFMbZ9t8=",
+      "Size": 1217
+    },
+    {
+      "Path": "resources/spells/99_2.png",
+      "Checksum": "SaDChz8lx6c=",
+      "Size": 1197
     },
     {
       "Path": "resources/spells/Dash.png",

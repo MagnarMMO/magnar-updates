@@ -51,7 +51,7 @@
       "RightMouseClickSound": null
     },
     "IngredientItemValue": {
-      "Bounds": "0,21,40,14",
+      "Bounds": "11,15,23,20",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
