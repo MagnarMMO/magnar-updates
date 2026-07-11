@@ -12,8 +12,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Checksum": "ySZuFx7EMio=",
-      "Size": 1173
+      "Checksum": "/Fid3PN6eRw=",
+      "Size": 1134
     },
     {
       "Path": "resources/credits.json",
@@ -1797,8 +1797,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventWindow.json",
-      "Checksum": "oZzsd3Nw1LI=",
-      "Size": 30348
+      "Checksum": "1RDkO6oOPck=",
+      "Size": 28892
     },
     {
       "Path": "resources/gui/layouts/game/FriendRow.json",
@@ -1867,7 +1867,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Checksum": "qd1G/FuU21Y=",
+      "Checksum": "2kdTm+d6r2o=",
       "Size": 19628
     },
     {
@@ -3644,6 +3644,11 @@
       "Path": "resources/music/A New World - Magnar.ogg",
       "Checksum": "g2ek3wRlgOM=",
       "Size": 1205959
+    },
+    {
+      "Path": "resources/music/Raid.ogg",
+      "Checksum": "nGrgcA1ROXY=",
+      "Size": 1133380
     },
     {
       "Path": "resources/paperdolls/Armor_1 Black.png",
