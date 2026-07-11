@@ -196,6 +196,11 @@
       "Size": 7003
     },
     {
+      "Path": "resources/entities/Mimico.png",
+      "Checksum": "GaSv8X3ytiE=",
+      "Size": 10531
+    },
+    {
       "Path": "resources/entities/Misc_George.png",
       "Checksum": "CXAbrXy7Bck=",
       "Size": 4095
@@ -239,11 +244,6 @@
       "Path": "resources/entities/Mobs_Lg_Beholder.png",
       "Checksum": "PiYE0wJRzEg=",
       "Size": 9571
-    },
-    {
-      "Path": "resources/entities/Mobs_Lg_Mimic.png",
-      "Checksum": "GaSv8X3ytiE=",
-      "Size": 10531
     },
     {
       "Path": "resources/entities/Mobs_Lg_Spider.png",
