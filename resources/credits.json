@@ -64,6 +64,13 @@
       "TextColor": null
     },
     {
+      "Text": "Eduardo Achcar",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 10,

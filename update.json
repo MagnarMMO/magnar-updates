@@ -17,8 +17,8 @@
     },
     {
       "Path": "resources/credits.json",
-      "Checksum": "dG0vQbPOkTs=",
-      "Size": 17886
+      "Checksum": "XQ5BYU4sEME=",
+      "Size": 18045
     },
     {
       "Path": "resources/animations/Blood.png",
@@ -244,6 +244,11 @@
       "Path": "resources/entities/Mobs_Lg_Beholder.png",
       "Checksum": "PiYE0wJRzEg=",
       "Size": 9571
+    },
+    {
+      "Path": "resources/entities/Mobs_Lg_Mimic.png",
+      "Checksum": "GaSv8X3ytiE=",
+      "Size": 10531
     },
     {
       "Path": "resources/entities/Mobs_Lg_Spider.png",
@@ -1797,8 +1802,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventWindow.json",
-      "Checksum": "1RDkO6oOPck=",
-      "Size": 28892
+      "Checksum": "4qn5HfNN2Rw=",
+      "Size": 27436
     },
     {
       "Path": "resources/gui/layouts/game/FriendRow.json",
@@ -1882,7 +1887,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Checksum": "/tnPoQ7WFyQ=",
+      "Checksum": "AsCqItfrolY=",
       "Size": 21614
     },
     {
